@@ -1,0 +1,17 @@
+@import 'base';
+@import 'fonts';
+@import '/css/fontawesome.css';
+@import '/css/solid.css';
+@import '/css/brands.css';
+@import '/css/bootstrap-grid.min.css';
+@import '/css/content-formatting.css';
+@import '/css/navheader.css';
+@import '/css/footer.css';
+
+.article-preview {
+    margin-bottom: 20px;
+}
+
+.pagination-content {
+    font-family: $font-sans-serif;
+}

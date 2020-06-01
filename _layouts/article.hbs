@@ -1,0 +1,73 @@
+<!doctype html>
+<html itemscope itemtype="http://schema.org/Article">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>{{ pageTitle }}</title>
+
+    <meta name="description" content="{{description}}" />
+
+    <!-- Schema.org markup for Google+ -->
+    <meta itemprop="name" content="{{ pageTitle }}">
+    <meta itemprop="description" content="{{ description }}">
+    {{#if image}}
+    <meta itemprop="image" content="/images/{{image}}-2000.jpg">
+    {{/if}}
+
+    <meta property="og:title" content="{{ pageTitle }}" />
+    <meta property="og:description" content="{{ description }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{domain}}/{{path}}/" />
+    {{#if image}}
+    <meta property="og:image" content="/images/{{image}}-2000.jpg" />
+    {{/if}}
+    <meta property="og:site_name" content="{{site.title}}" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{ pageTitle }}" />
+    <meta name="twitter:description" content="{{ description }}" />
+    {{#if image}}
+    <meta name="twitter:image" content="/images/{{image}}-2000.jpg" />
+    {{/if}}
+
+    <link rel="stylesheet" href="/css/article.css" />
+
+</head>
+
+<body>
+    <div class="container h-100 flex-grow-1">
+        {{> navheader dark=true}}
+        <div class="row">
+            <div class="col-md-1 col-lg-2"></div>
+            <div class="col-lg-8 col-md-10">
+                <main>
+                    <header>
+                        <h1 class="title">{{ title }}</h1>
+                        <div class="article-info">
+                            Published {{date}} by {{author}} - {{wordCount}} words - {{readingTime}} read
+                        </div>
+                    </header>
+                    <article>
+                        {{#if image}}
+                        {{> responsive-header-image}}
+                        {{/if}}
+
+                        {{{ contents }}}
+                    </article>
+                    <div class="article-info footer-info">
+                        {{#if tags}}tags: {{tags}}<br>{{/if}}
+                        {{#if category}}category: {{category}}{{/if}}
+                    </div>
+                </main>
+            </div>
+            <div class="col-md-1 col-lg-2"></div>
+        </div>
+    </div>
+    {{> footer }}
+
+    <script src="/js/lazyload.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,21 @@
+@import 'base';
+@import 'fonts';
+@import '/css/fontawesome.css';
+@import '/css/brands.css';
+@import '/css/bootstrap-grid.min.css';
+@import '/css/content-formatting.css';
+@import '/css/navheader.css';
+@import '/css/footer.css';
+
+.article-preview {
+    margin-bottom: 20px;
+}
+
+h1.hero-title {
+    text-align: center;
+    font-size: 48pt;
+}
+
+.hero-image {
+    width: 100%;
+}

@@ -1,0 +1,52 @@
+$grid-columns:      12;
+$grid-gutter-width: 30px;
+
+$grid-breakpoints: (
+  // Extra small screen / phone
+  xs: 0,
+  // Small screen / phone
+  sm: 576px,
+  // Medium screen / tablet
+  md: 768px,
+  // Large screen / desktop
+  lg: 992px,
+  // Extra large screen / wide desktop
+  xl: 1200px
+);
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px
+);
+
+@mixin breakpoint-xl {
+  @media (min-width: 1200px) {
+    @content;
+  }
+}
+
+@mixin breakpoint-lg {
+  @media (min-width: 992px) and (max-width: 1199px) {
+    @content;
+  }
+}
+
+@mixin breakpoint-md {
+  @media (min-width: 768px) and (max-width: 991px) {
+    @content;
+  }
+}
+
+@mixin breakpoint-sm {
+  @media (min-width: 576px) and (max-width: 767px) {
+    @content;
+  }
+}
+
+@mixin breakpoint-xs {
+  @media (max-width: 575px) and (min-width: 0px) {
+    @content;
+  }
+}

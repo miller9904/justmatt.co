@@ -1,0 +1,138 @@
+@import 'base';
+@import 'fonts';
+@import 'breakpoints';
+@import '/css/footer.css';
+@import '/css/fontawesome.css';
+@import '/css/brands.css';
+@import '/css/bootstrap-grid.min.css';
+@import '/css/navheader.css';
+@import '/css/footer.css';
+
+body {
+    margin: 0;
+    font-family: $font-body;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(45, 45, 45);
+}
+
+.navheader-menu {
+    @include breakpoint-xs {
+        display: none !important;
+    }
+}
+
+.hero {
+    background-color: #75783c;
+    color: rgba(2550, 255, 255, 0.8);
+    padding-bottom: 20px;
+}
+
+.hero-content {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.title {
+    font-family: $font-serif;
+    font-size: 42pt;
+
+    @include breakpoint-xs {
+        font-size: 8vw; /* viewport width: https://stackoverflow.com/a/15649277/3546490 */
+    }
+
+    @include breakpoint-sm {
+        font-size: 28pt;
+    }
+
+    @include breakpoint-md {
+        font-size: 30pt;
+    }
+}
+
+.hero-text {
+
+    a {
+        color: rgba(2550, 255, 255, 0.8);
+        text-decoration: underline;
+    }
+
+    a:hover {
+        transition: linear 0.2s color;
+        color: rgba(2550, 255, 255, 0.5);
+    }
+
+    @include breakpoint-xs {width: 80%;
+        margin-left: 10%;
+    }
+}
+
+.hero-image {
+    width: 100%;
+    border-radius: 50%;
+
+    @include breakpoint-sm {
+        margin-top: 50px;
+        width: 200px;
+    }
+
+    @include breakpoint-xs {
+        margin-top: 50px;
+        width: 80%;
+        margin-left: 10%;
+    }
+}
+
+.section-break {
+    width: 100%;
+    height: 15px;
+    background-color: #898e43;
+}
+
+.section-content {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    font-family: $font-sans-serif;
+    font-size: 14pt;
+
+    @include breakpoint-sm {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    @include breakpoint-xs {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+
+.section-title {
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+.inkwell-link {
+    img {
+        height: 60px;
+        margin-bottom: 10px;
+    }
+
+    img,
+    div {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+
+    font-family: $font-serif;
+    margin-top: 30px;
+}
+
+.section-link {
+    text-align: right;
+    font-weight: 700;
+    margin-top: 30px;
+}

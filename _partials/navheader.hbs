@@ -1,0 +1,38 @@
+<div class="row align-items-center h-100 navheader">
+    {{#if light}}
+    <style>
+        .navheader {
+            color: rgba(2550,255,255,0.8) !important;
+        }
+
+        .navheader-menu-item {
+            color: rgba(2550,255,255,0.8) !important;
+        }
+    </style>
+    {{/if}}
+    <!-- Vertical align center: https://stackoverflow.com/a/42252877/3546490 -->
+    <div class="col-2">
+        <a href="/">
+            <img 
+            {{#if dark}}
+            src="/assets/logo-black.png" 
+            {{/if}}
+            {{#if light}}
+            src="/assets/logo-white.png" 
+            {{/if}}
+            class="navheader-logo" />
+        </a>
+    </div>
+    <div class="col-md-10 col-sm-10">
+
+        <nav class="navheader-menu">
+            <a class="navheader-menu-item" href="/">HOME</a> //
+            <a class="navheader-menu-item" href="/photography/">PHOTOGRAPHY</a> //
+            <a class="navheader-menu-item" href="/writing/">WRITING</a> //
+            <a class="navheader-menu-item" href="/contact/">CONTACT</a>
+            <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i class="fab fa-instagram"></i></a>
+            <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
+
+        </nav>
+    </div>
+</div>

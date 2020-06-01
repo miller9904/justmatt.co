@@ -1,0 +1,31 @@
+@import 'base';
+@import 'fonts';
+@import '/css/visibility.css';
+@import '/css/lazyload.css';
+@import '/css/content-formatting.css';
+@import '/css/footer.css';
+@import '/css/fa-reduced.css';
+@import '/css/brands.css';
+@import '/css/bootstrap-grid.min.css';
+@import '/css/navheader.css';
+
+
+
+.title {
+    font-size: 28pt;
+    margin-bottom: 8px;
+    font-family: $font-sans-serif;
+    color: black;
+}
+
+.article-image {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.footer-info {
+    margin-bottom: 10px;
+    border-top: 1px solid lightgray;
+    padding-top: 10px;
+}

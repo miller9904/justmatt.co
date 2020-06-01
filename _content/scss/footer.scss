@@ -1,0 +1,29 @@
+@import "fonts";
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+footer {
+    background: #75783c;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.footer-main {
+    font-size: 11pt;
+    color: rgba(2550, 255, 255, 0.8);
+    font-family: $font-sans-serif;
+    line-height: 2;
+
+    a {
+        color: rgba(2550, 255, 255, 0.8);
+        text-decoration: underline;
+    }
+}
+
+.footer-links {
+    text-align: center;
+}

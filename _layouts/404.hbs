@@ -1,0 +1,31 @@
+<!doctype html>
+<html itemscope itemtype="http://schema.org/Article">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>{{ title }} - Just Matt</title>
+
+    <meta name="description" content="{{description}}" />
+
+    <link rel="stylesheet" href="/css/404.css" />
+
+</head>
+
+<body>
+    <div class="container h-100 flex-grow-1">
+        {{> navheader dark=true}}
+        <div class="row align-items-center">
+            <div class="col-md-7">
+                <h1 class="hero-title">Page not found</h1>
+            </div>
+            <div class="col-md-5">
+                <img class="hero-image" src="/assets/ginger-cat-742.png"/>
+            </div>
+        </div>
+    </div>
+    {{> footer }}
+</body>
+
+</html>

@@ -1,0 +1,41 @@
+<!doctype html>
+<html itemscope itemtype="http://schema.org/Article">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>{{ title }} - Just Matt</title>
+
+    <meta name="description" content="{{description}}" />
+
+    <link rel="stylesheet" href="/css/posts.css" />
+
+</head>
+
+<body>
+    <div class="container h-100 flex-grow-1">
+        {{> navheader dark=true}}
+        {{> pagination}}
+        <div class="row">
+            <div class="col-md-1 col-lg-2"></div>
+            <div class="col-lg-8 col-md-10">
+                <main>
+                    {{#each pagination.files}}
+                    <div class="article-preview">
+                        <h2><a href="/{{this.path}}">{{this.title}}</a></h2>
+                        <div class="article-info">{{this.date}}</div>
+                        <div>{{this.preview}}</div>
+                        {{#if this.tags}}<div class="article-info">Tags: {{this.tags}}</div>{{/if}}
+                    </div>
+                    {{/each}}
+                </main>
+            </div>
+            <div class="col-md-1 col-lg-2"></div>
+        </div>
+        {{> pagination}}
+    </div>
+    {{> footer }}
+</body>
+
+</html>

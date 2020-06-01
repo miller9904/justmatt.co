@@ -1,0 +1,12 @@
+<div class="row">
+    <div class="col-md-1 col-lg-2"></div>
+    <div class="col-lg-8 col-md-10 pagination-content" style="margin-bottom: 20px; margin-top: 10px">
+        {{#if pagination.next}}
+        <div style="float:right"><a href="/{{pagination.next.path}}">Older <i class="fas fa-chevron-right"></i></a></div>
+        {{/if}}
+        {{#if pagination.previous}}
+        <div style="float:left"><a href="/{{pagination.previous.path}}"><i class="fas fa-chevron-left"></i> Newer</a></div>
+        {{/if}}
+    </div>
+    <div class="col-md-1 col-lg-2"></div>
+</div>

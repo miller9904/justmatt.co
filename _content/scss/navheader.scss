@@ -1,0 +1,31 @@
+@import "fonts";
+@import "breakpoints";
+
+.navheader-logo {
+    width: 80px;
+}
+
+.navheader-menu {
+    float: right;
+    font-family: $font-sans-serif;
+    line-height: 2;
+
+    a {
+        color: black;
+    }
+
+    @include breakpoint-sm {
+        text-align: right;
+    }
+
+    @include breakpoint-xs {
+        float: initial !important;
+        text-align: center;
+    }
+}
+
+.navheader-menu-item {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 12pt;
+}
