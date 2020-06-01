@@ -132,18 +132,6 @@ Metalsmith(__dirname)
     .use(sitemap({
         hostname: 'https://justmatt.co'
     }))
-    // Serve files after build
-    .use(metalsmithExpress())
-    .use(
-        watch({
-            paths: {
-                '${source}/**/*': true,
-                '_partials/**/*': true,
-                '_layouts/**/*': true
-            },
-            livereload: true
-        })
-    )
     .use(debug(false))
     .build(function (err, files) {
         if (err) { throw err; }

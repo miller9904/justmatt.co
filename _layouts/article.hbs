@@ -7,18 +7,20 @@
 
     <title>{{ pageTitle }}</title>
 
-    <meta name="description" content="{{description}}" />
+    <meta name="description" content="{{preview}}" />
 
     <!-- Schema.org markup for Google+ -->
     <meta itemprop="name" content="{{ pageTitle }}">
-    <meta itemprop="description" content="{{ description }}">
+    <meta itemprop="description" content="{{ preview }}">
     {{#if image}}
     <meta itemprop="image" content="/images/{{image}}-2000.jpg">
     {{/if}}
 
     <meta property="og:title" content="{{ pageTitle }}" />
-    <meta property="og:description" content="{{ description }}" />
+    <meta property="og:description" content="{{ preview }}" />
     <meta property="og:type" content="article" />
+    <meta property="og:author" content="{{ author }}" />
+    <meta property="og:published_time" content="{{ date }}" />
     <meta property="og:url" content="{{domain}}/{{path}}/" />
     {{#if image}}
     <meta property="og:image" content="/images/{{image}}-2000.jpg" />
