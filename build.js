@@ -60,7 +60,8 @@ Metalsmith(__dirname)
         site: {
             title: 'Just Matt'
         },
-        year: new Date().getFullYear().toString()
+        year: new Date().getFullYear().toString(),
+        domain: 'https://justmatt.co'
     })
     // Register handlebars partials so they can be used later
     .use(partials({
@@ -132,6 +133,18 @@ Metalsmith(__dirname)
     .use(sitemap({
         hostname: 'https://justmatt.co'
     }))
+    // Serve files after build
+    .use(metalsmithExpress())
+    .use(
+        watch({
+            paths: {
+                '${source}/**/*': true,
+                '_partials/**/*': true,
+                '_layouts/**/*': true
+            },
+            livereload: true
+        })
+    )
     .use(debug(false))
     .build(function (err, files) {
         if (err) { throw err; }
