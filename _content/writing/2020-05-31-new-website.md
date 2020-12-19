@@ -2,6 +2,7 @@
 title: Welcome to the new Just Matt
 author: Matthew Miller
 date: May 31st, 2020
+publishDate: 2020-05-31
 collection: articles
 layout: article.hbs
 ---

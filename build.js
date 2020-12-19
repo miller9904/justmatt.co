@@ -11,6 +11,7 @@ const publish = require('metalsmith-publish');
 const slug = require('metalsmith-slug');
 const pageTitle = require('metalsmith-page-titles');
 const preview = require('metalsmith-preview');
+const dateFormatter = require('metalsmith-date-formatter');
 
 // File structure
 const permalinks = require('metalsmith-permalinks');
@@ -75,6 +76,15 @@ Metalsmith(__dirname)
     .use(pageTitle())
     // Allows you to set a slug for a page different than its title
     .use(slug())
+    // Use formatted dates
+    .use(dateFormatter({
+        dates: [
+            {
+                key: 'publishDate',
+                format: 'dddd MMMM Do, YYYY'
+            }
+        ]
+    }))
     // Collections
     .use(collections({
         articles: {

@@ -3,6 +3,7 @@ title: An Empathetic Response to George Floyd
 author: Matthew Miller
 image: riot
 date: 2020-06-01
+publishDate: 2020-06-01
 collection: articles
 tags: politics, race
 layout: article.hbs

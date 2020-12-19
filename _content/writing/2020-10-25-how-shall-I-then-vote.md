@@ -3,6 +3,7 @@ title: How Shall I Then Vote?
 author: Matthew Miller
 image: polls
 date: 2020-10-25
+publishDate: 2020-10-25
 collection: articles
 tags: politics, election
 layout: article.hbs
