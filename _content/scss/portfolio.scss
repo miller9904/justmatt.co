@@ -1,0 +1,72 @@
+@import 'base';
+@import 'fonts';
+@import 'breakpoints';
+@import '/css/fontawesome.css';
+@import '/css/brands.css';
+@import '/css/bootstrap-grid.min.css';
+@import '/css/navheader.css';
+@import '/css/footer.css';
+
+a {
+    text-decoration: none;
+    color: rgb(45, 45, 45);
+}
+
+
+.title {
+    font-family: $font-serif;
+    font-size: 42pt;
+
+    @include breakpoint-xs {
+        font-size: 8vw; /* viewport width: https://stackoverflow.com/a/15649277/3546490 */
+    }
+
+    @include breakpoint-sm {
+        font-size: 28pt;
+    }
+
+    @include breakpoint-md {
+        font-size: 30pt;
+    }
+}
+
+.section-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: $font-sans-serif;
+    font-size: 14pt;
+
+    @include breakpoint-sm {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    @include breakpoint-xs {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+
+.section-title {
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+.section-link {
+    text-align: right;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.project-image {
+    width: 100%;
+    box-shadow: 0px 2px 12px -4px rgba(0,0,0,0.75);
+}
+
+.section-description {
+    margin-bottom: 20px;
+
+    @media (min-width: 768px) {
+        padding-right: 10%;
+    }
+}
