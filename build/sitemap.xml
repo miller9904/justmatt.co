@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://justmatt.co/404.html</loc> </url>
+<url> <loc>https://justmatt.co/attribution.html</loc> </url>
+<url> <loc>https://justmatt.co/index.html</loc> </url>
 <url> <loc>https://justmatt.co/privacy.html</loc> </url>
+<url> <loc>https://justmatt.co/contact/index.html</loc> </url>
+<url> <loc>https://justmatt.co/photography/index.html</loc> </url>
+<url> <loc>https://justmatt.co/portfolio/index.html</loc> </url>
+<url> <loc>https://justmatt.co/writing/2020-05-31-new-website.html</loc> </url>
+<url> <loc>https://justmatt.co/writing/2020-06-01-an-empathetic-response.html</loc> </url>
+<url> <loc>https://justmatt.co/writing/2020-10-25-how-shall-I-then-vote.html</loc> </url>
+<url> <loc>https://justmatt.co/writing/2020-12-20-instagram-privacy.html</loc> </url>
 <url> <loc>https://justmatt.co/writing/1/index.html</loc> </url>
 <url> <loc>https://justmatt.co/writing/index.html</loc> </url>
 </urlset>
