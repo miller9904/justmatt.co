@@ -1,0 +1,55 @@
+{
+  "_from": "tufte-css",
+  "_id": "tufte-css@1.7.2",
+  "_inBundle": false,
+  "_integrity": "sha512-0Hmkm1RgN8HUMbBPiuKB4RMCgmLg5MI4k2rLZKBfDmJjXRT9F9fHL1Jnche4Dnj47+bq/IY8HiZDN5KqnKeDdA==",
+  "_location": "/tufte-css",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "tufte-css",
+    "name": "tufte-css",
+    "escapedName": "tufte-css",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tufte-css/-/tufte-css-1.7.2.tgz",
+  "_shasum": "755d4914041d49d99a2c12edc2000150cb990fd6",
+  "_spec": "tufte-css",
+  "_where": "/home/matthew/Projects/justmatt.co",
+  "author": {
+    "name": "Dave Liepmann"
+  },
+  "bugs": {
+    "url": "https://github.com/edwardtufte/tufte-css/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Tufte CSS provides tools to style web articles using the ideas demonstrated by Edward Tufte’s books and handouts. Edward Tufte uses a distinctive style in his handouts: simple, with well-set typography, extensive sidenotes, and tight integration of graphics and charts.",
+  "files": [
+    "tufte.css",
+    "tufte.min.css",
+    "et-book/"
+  ],
+  "homepage": "https://edwardtufte.github.io/tufte-css/",
+  "keywords": [
+    "tufte",
+    "css",
+    "HTML",
+    "typography",
+    "sidenotes"
+  ],
+  "license": "MIT",
+  "name": "tufte-css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardtufte/tufte-css.git"
+  },
+  "version": "1.7.2"
+}

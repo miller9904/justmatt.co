@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Just Matt]]></title><description><![CDATA[Just Matt]]></description><link>https://justmatt.co</link><generator>metalsmith-feed</generator><lastBuildDate>Wed, 09 Jun 2021 20:33:22 GMT</lastBuildDate><atom:link href="https://justmatt.co/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[Introduction to Christianity as a Counter-Culture]]></title><description><![CDATA[<!doctype html>
+<html itemscope itemtype="http://schema.org/Article">
+
+<head>
+ <meta charset="utf-8" />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+ <title>Introduction to Christianity as a Counter-Culture | Just Matt</title>
+
+ <meta name="description" content="During the past few years, our nation has experienced a series of events that have had an indelible effect on our culture. Between the Trump presidency, worsening race relations, and COVID, Americans have been thrown into an intense period of soul-searching. For Christians, this requires a constant re-evaluation of our ideas based on the truths of the Bible. As I personally have been party to many of these cultural events, I have been led to fundamentally reconsider how Christians relate to their culture. Many of my ideas about Church, State, and even the nature of Christianity itself have been challenged..." />
+
+ <!-- Schema.org markup for Google+ -->
+ <meta itemprop="name" content="Introduction to Christianity as a Counter-Culture | Just Matt">
+ <meta itemprop="description" content="During the past few years, our nation has experienced a series of events that have had an indelible effect on our culture. Between the Trump presidency, worsening race relations, and COVID, Americans have been thrown into an intense period of soul-searching. For Christians, this requires a constant re-evaluation of our ideas based on the truths of the Bible. As I personally have been party to many of these cultural events, I have been led to fundamentally reconsider how Christians relate to their culture. Many of my ideas about Church, State, and even the nature of Christianity itself have been challenged...">
+ <meta itemprop="image" content="/images/church-2000.jpg">
+
+ <meta property="og:title" content="Introduction to Christianity as a Counter-Culture | Just Matt" />
+ <meta property="og:description" content="During the past few years, our nation has experienced a series of events that have had an indelible effect on our culture. Between the Trump presidency, worsening race relations, and COVID, Americans have been thrown into an intense period of soul-searching. For Christians, this requires a constant re-evaluation of our ideas based on the truths of the Bible. As I personally have been party to many of these cultural events, I have been led to fundamentally reconsider how Christians relate to their culture. Many of my ideas about Church, State, and even the nature of Christianity itself have been challenged..." />
+ <meta property="og:type" content="article" />
+ <meta property="og:author" content="Matthew Miller" />
+ <meta property="og:published_time" content="Fri Apr 30 2021 20:00:00 GMT-0400 (Eastern Daylight Time)" />
+ <meta property="og:url" content="https://justmatt.co/writing/2021-05-01-christianity-as-a-counter-culture.html" />
+ <meta property="og:image" content="/images/church-2000.jpg" />
+ <meta property="og:site_name" content="Just Matt" />
+
+ <meta name="twitter:card" content="summary" />
+ <meta name="twitter:title" content="Introduction to Christianity as a Counter-Culture | Just Matt" />
+ <meta name="twitter:description" content="" />
+ <meta name="twitter:image" content="/images/church-2000.jpg" />
+
+ <link rel="stylesheet" href="/css/article.css" />
+
+</head>
+
+<body>
+ <div class="container h-100 flex-grow-1">
+ <div class="row align-items-center h-100 navheader">
+ <!-- Vertical align center: https://stackoverflow.com/a/42252877/3546490 -->
+ <div class="col-2">
+ <a href="/">
+ <img 
+                    src="/assets/logo-black.png" 
+                    class="navheader-logo" />
+ </a>
+ </div>
+ <div class="col-md-10 col-sm-10">
+ 
+ <nav class="navheader-menu">
+ <a class="navheader-menu-item" href="/"><abbr>HOME</abbr></a> //
+ <a class="navheader-menu-item" href="/photography/"><abbr>PHOTOGRAPHY</abbr></a> //
+ <a class="navheader-menu-item" href="/writing/"><abbr>WRITING</abbr></a> //
+ <a class="navheader-menu-item" href="/contact/"><abbr>CONTACT</abbr></a>
+ <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i class="fab fa-instagram"></i></a>
+ <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
+ 
+ </nav>
+ </div>
+ </div> <div class="row">
+ <div class="col-md-1 col-lg-2"></div>
+ <div class="col-lg-8 col-md-10">
+ <main>
+ <header>
+ <h1 class="title">Introduction to Christianity as a Counter-Culture</h1>
+ <div class="article-info">
+ Published Saturday May 1st, 2021 by Matthew Miller — 329 words — 2 min read
+ </div>
+ </header>
+ <article>
+ <picture class="article-image">
+ <source class="article-image-src" type="image/webp" src="/images/church-50.webp" data-srcset="/images/church-50.webp 50w,
+                            /images/church-500.webp 500w,
+                            /images/church-1000.webp 1000w,
+                            /images/church-2000.webp 2000w" />
+ <img class="article-image" src="/images/church-50.jpg" data-srcset="/images/church-50.jpg 50w,
+                            /images/church-500.jpg 500w,
+                            /images/church-1000.jpg 1000w,
+                            /images/church-2000.jpg 2000w" />
+ </picture>
+ <p>During the past few years, our nation has experienced a series of events that have had an indelible effect on our culture. Between the Trump presidency, worsening race relations, and <abbr>COVID</abbr>, Americans have been thrown into an intense period of soul-searching. For Christians, this requires a constant <nobr>re-evaluation</nobr> of our ideas based on the truths of the Bible. As I personally have been party to many of these cultural events, I have been led to fundamentally reconsider how Christians relate to their culture. Many of my ideas about Church, State, and even the nature of Christianity itself have been challenged in the process. </p>
+<p>The more I’ve studied and discussed, the more I’ve realized that many of these ideas desperately need to be talked about. In today’s battle over worldview and culture, Christians are presented with strong narratives that they are encouraged to assume without challenge. These narratives, while normally offered with the best of intentions, end up leaving Christians unfulfilled because they offer a version of Christianity that would be almost unrecognizable to the authors of the New Testament and hamper a true understanding of both the Gospel and the Great Commission.</p>
+<p>Over the next several months, I will be writing a series of articles that explore the idea of Christianity as a counter-<nobr>culture—</nobr>a Christianity that was intended to oppose worldly culture and must be fundamentally perverted in order to provide the basis for a dominant cultural system. This Christianity is therefore not based on any national identity, political structure, or economic system. It is simple, idealistic, and orthodox.</p>
+<p>In this series of articles, I will strive to show how this understanding of Christianity is historically accurate, biblically sound, and philosophically consistent. I will be drawing from a wide array of sources, and I hope to receive feedback on my ideas so I may continue to develop them. If you would like to subscribe to email updates, you can <a href="http://eepurl.com/hvnCan">sign up here</a>. You may also <a href="https://www.facebook.com/matthewmillerofficial">follow my Facebook page</a>.</p>
+
+ </article>
+ <div class="article-info footer-info">
+ tags: christianity, culture<br>
+ 
+ </div>
+ </main>
+ </div>
+ <div class="col-md-1 col-lg-2"></div>
+ </div>
+ </div>
+ <!--<footer>
+        <div class="footer">
+            &#169; 2021 Matthew Miller.
+        </div>
+    </footer>0-->
+ 
+ <footer>
+ <div class="container footer-main">
+ <div class="row">
+ <div class="col-sm-1"></div>
+ <div class="col-sm-5">
+ <a href="/privacy.html">Privacy</a> — I don't watch you <br>
+ <a href="/attribution.html">Attribution</a> <br>
+ &#169; 2021 Matthew Miller. Unless otherwise noted, all content is licensed under the <a
+                        href="https://creativecommons.org/licenses/by-sa/4.0/?ref=ccchooser">Creative Commons <nobr>BY-SA</nobr> 4.0</a>
+ <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> <i
+                        class="fab fa-creative-commons-sa"></i>
+ </div>
+ <div class="col-sm-5 footer-links">
+ <a href="/">Home</a> •
+ <a href="/photography/">Photography</a> •
+ <a href="/writing/">Writing</a> •
+ <a href="/contact/">Contact</a>
+ <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i
+                            class="fab fa-instagram"></i></a>
+ <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
+ </div>
+ <div class="col-sm-1"></div>
+ </div>
+ </div>
+ </footer>
+ 
+ <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
+ <script src="/js/lazyload.js"></script>
+
+ <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1005c62af3fe4147beb401d634dd80ac"}'></script><!-- End Cloudflare Web Analytics --></body>
+
+</html>]]></description><link>https://justmatt.co/writing/2021-05-01-christianity-as-a-counter-culture.html</link><guid isPermaLink="true">https://justmatt.co/writing/2021-05-01-christianity-as-a-counter-culture.html</guid><dc:creator><![CDATA[Matthew Miller]]></dc:creator><pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[Protecting Your Privacy on Instagram]]></title><description><![CDATA[<!doctype html>
+<html itemscope itemtype="http://schema.org/Article">
+
+<head>
+ <meta charset="utf-8" />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+ <title>Protecting Your Privacy on Instagram | Just Matt</title>
+
+ <meta name="description" content="Over the past week, I&amp;#39;ve noticed multiple people on Instagram post about an update to their terms of service that allows Instagram massive new access to your data. Several of my friends also sent me the update to ask my opinion. In this article, I will explain what Instagram is tracking about you and how you can limit their ability to access your information. Table of Contents  Data Policy Privacy Implications Protecting Yourself The Next Level In Review  Data Policy I started by pulling up Instagram&amp;#39;s Data Policy, which..." />
+
+ <!-- Schema.org markup for Google+ -->
+ <meta itemprop="name" content="Protecting Your Privacy on Instagram | Just Matt">
+ <meta itemprop="description" content="Over the past week, I&amp;#39;ve noticed multiple people on Instagram post about an update to their terms of service that allows Instagram massive new access to your data. Several of my friends also sent me the update to ask my opinion. In this article, I will explain what Instagram is tracking about you and how you can limit their ability to access your information. Table of Contents  Data Policy Privacy Implications Protecting Yourself The Next Level In Review  Data Policy I started by pulling up Instagram&amp;#39;s Data Policy, which...">
+ <meta itemprop="image" content="/images/instagram-2000.jpg">
+
+ <meta property="og:title" content="Protecting Your Privacy on Instagram | Just Matt" />
+ <meta property="og:description" content="Over the past week, I&amp;#39;ve noticed multiple people on Instagram post about an update to their terms of service that allows Instagram massive new access to your data. Several of my friends also sent me the update to ask my opinion. In this article, I will explain what Instagram is tracking about you and how you can limit their ability to access your information. Table of Contents  Data Policy Privacy Implications Protecting Yourself The Next Level In Review  Data Policy I started by pulling up Instagram&amp;#39;s Data Policy, which..." />
+ <meta property="og:type" content="article" />
+ <meta property="og:author" content="Matthew Miller" />
+ <meta property="og:published_time" content="Sat Dec 19 2020 19:00:00 GMT-0500 (Eastern Standard Time)" />
+ <meta property="og:url" content="https://justmatt.co/writing/2020-12-20-instagram-privacy.html" />
+ <meta property="og:image" content="/images/instagram-2000.jpg" />
+ <meta property="og:site_name" content="Just Matt" />
+
+ <meta name="twitter:card" content="summary" />
+ <meta name="twitter:title" content="Protecting Your Privacy on Instagram | Just Matt" />
+ <meta name="twitter:description" content="" />
+ <meta name="twitter:image" content="/images/instagram-2000.jpg" />
+
+ <link rel="stylesheet" href="/css/article.css" />
+
+</head>
+
+<body>
+ <div class="container h-100 flex-grow-1">
+ <div class="row align-items-center h-100 navheader">
+ <!-- Vertical align center: https://stackoverflow.com/a/42252877/3546490 -->
+ <div class="col-2">
+ <a href="/">
+ <img 
+                    src="/assets/logo-black.png" 
+                    class="navheader-logo" />
+ </a>
+ </div>
+ <div class="col-md-10 col-sm-10">
+ 
+ <nav class="navheader-menu">
+ <a class="navheader-menu-item" href="/"><abbr>HOME</abbr></a> //
+ <a class="navheader-menu-item" href="/photography/"><abbr>PHOTOGRAPHY</abbr></a> //
+ <a class="navheader-menu-item" href="/writing/"><abbr>WRITING</abbr></a> //
+ <a class="navheader-menu-item" href="/contact/"><abbr>CONTACT</abbr></a>
+ <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i class="fab fa-instagram"></i></a>
+ <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
+ 
+ </nav>
+ </div>
+ </div> <div class="row">
+ <div class="col-md-1 col-lg-2"></div>
+ <div class="col-lg-8 col-md-10">
+ <main>
+ <header>
+ <h1 class="title">Protecting Your Privacy on Instagram</h1>
+ <div class="article-info">
+ Published Sunday December 20th, 2020 by Matthew Miller — 1939 words — 7 min read
+ </div>
+ </header>
+ <article>
+ <picture class="article-image">
+ <source class="article-image-src" type="image/webp" src="/images/instagram-50.webp" data-srcset="/images/instagram-50.webp 50w,
+                            /images/instagram-500.webp 500w,
+                            /images/instagram-1000.webp 1000w,
+                            /images/instagram-2000.webp 2000w" />
+ <img class="article-image" src="/images/instagram-50.jpg" data-srcset="/images/instagram-50.jpg 50w,
+                            /images/instagram-500.jpg 500w,
+                            /images/instagram-1000.jpg 1000w,
+                            /images/instagram-2000.jpg 2000w" />
+ </picture>
+ <p>Over the past week, I&#39;ve noticed multiple people on Instagram post about an update to their terms of service that allows Instagram massive new access to your data. Several of my friends also sent me the update to ask my opinion. In this article, I will explain what Instagram is tracking about you and how you can limit their ability to access your information.</p>
+<h2 id="table-of-contents">Table of Contents</h2>
+<ul>
+<li><a href="#data-policy">Data Policy</a></li>
+<li><a href="#privacy-implications">Privacy Implications</a></li>
+<li><a href="#protecting-yourself">Protecting Yourself</a></li>
+<li><a href="#the-next-level">The Next Level</a></li>
+<li><a href="#in-review">In Review</a></li>
+</ul>
+<h2 id="-span-id-data-policy-data-policy-span-"><span id="data-policy">Data Policy</span></h2>
+<p>I started by pulling up Instagram&#39;s <a href="https://help.instagram.com/519522125107875/">Data Policy</a>, which lists all the data Instagram collects and which includes Instagram, Facebook, Messenger, and other apps owned by Facebook. I&#39;ve written out a list of many types of information collected and tried to give a simple explanation for each one. While it is very long, I decided to exclude a few smaller items for clarity&#39;s sake. The list itself can be split into roughly three catagories:</p>
+<h3 id="information-you-give-instagram">Information you give Instagram</h3>
+<p>All of this information can be summed up by the statement &quot;If you do something inside the Instagram app, Instagram can see it.&quot; All of this information (including information from the camera) is analyzed by Instagram&#39;s automatic systems.</p>
+<ul>
+<li><strong>Any information you enter when you sign up</strong> (email address, name, username, etc.)</li>
+<li><strong>Anything you post</strong>, including photos, captions, comments, and other information attached to your photos. For instance, if your phone saves the location where photos are taken and you post a photo, Instagram will also be able to see where the photo was taken.</li>
+<li>If you follow other accounts or hashtags, <strong>Instagram can see who you follow and who follows you</strong>.</li>
+<li><strong>Your likes and searches.</strong> Instagram can see which posts and comments you have liked and what you&#39;ve searched for on Instagram.</li>
+<li><strong>If you use the Instagram camera to post Stories or Reels, Instagram can see what you point the camera at.</strong> While the camera is open, everything seen through the camera is analyzed to suggest filters and masks. Note that in this context, &quot;masks&quot; refer to face overlays in the camera, not physical face coverings.</li>
+<li><strong>Any messages you send through Instagram.</strong> If you use the messages feature of Instagram, they can see the content of every message and who you are communicating with.</li>
+<li><strong>Credit/debit card information, billing, shipping, and contact information.</strong> If you purchase anything through Instagram or use it for any other financial transaction such as a donation, Instagram collects information about the purchase. This includes your credit/debit card information, shipping and billing information including addresses, as well as &quot;other account and authentication information&quot;.</li>
+</ul>
+<h3 id="information-collected-that-you-can-control">Information collected that you can control</h3>
+<p>Instagram also collects some information from your system when you give it permission. These features can usually be disabled by revoking access on your devices. Such information collected includes:</p>
+<ul>
+<li><strong>Contacts on your device.</strong> If you enable Contact Uploading, Instagram periodically reads and stores a copy of all your contacts.</li>
+<li><strong><abbr>GPS</abbr> location.</strong> If you enable location access, Instagram can track your precise location. Note that Instagram can still collect general location information from other sources on your device if <abbr>GPS</abbr> permission is denied.</li>
+<li><strong>Device Settings.</strong> Instagram reports which permissions you have granted to Instagram, such as whether you have enabled <abbr>GPS</abbr> location, or camera and photos access.</li>
+</ul>
+<h4 id="a-note-on-sms-messages-and-call-history">A note on <abbr>SMS</abbr> messages and call history</h4>
+<p>Instagram&#39;s Data Policy says it can collect the text messages you send through <abbr>SMS</abbr>. To my knowledge, Instagram does not request permission to access this and therefore does not collect it. Because Instagram shares its data policy with Facebook and Facebook Messenger, I believe this statement in Instagram&#39;s data policy is referring to features that exist within Facebook Messenger.</p>
+<h3 id="information-collected-that-you-cannot-control">Information collected that you cannot control</h3>
+<p>This is information that is collected by Instagram automatically and is difficult or impossible to prevent. Such information includes:</p>
+<ul>
+<li><strong>When you use Instagram.</strong> Every time you open Instagram, the time is recorded as well as how long you spend there.</li>
+<li><strong>What you view on Instagram.</strong> Instagram observes every post and video you see on their platform and measures how you interact with it, including things such as how long you looked at it and if you liked or shared it.</li>
+<li><strong>Who and what you interact with on Instagram.</strong> When you message or otherwise interact with another user or page, Instagram tracks how you interact with them and how much time you spend interacting with them.</li>
+<li><strong>Any information about you provided by other users.</strong> When other users interact with you on Instagram, tag you in photos, or upload your contact information, Instagram links this information to you.</li>
+<li><strong>Information about your device.</strong> Instagram collects a lot of information about your devices like what kind of device it is, its battery level, and how much storage space is available.</li>
+<li><strong>Your mouse movements within Instagram.</strong> If you load Instagram in a web browser, Instagram watches and records your mouse movements within Instagram.</li>
+<li><strong>Device ID numbers.</strong> Instagram collects different ID numbers on your devices that identify both you and your specific devices. This allows them to track you even if you&#39;ve logged out of your account and associate all your devices with you.</li>
+<li><strong>Signal data.</strong> Instagram collects information about the way you connect to other devices from Bluetooth signal strength and information provided by nearby WiFi and cell towers.</li>
+<li><strong>How you connect to the internet.</strong> Instagram collects information such as your phone number, IP address, and other information about how you connect to the internet.</li>
+<li><strong>Other nearby devices.</strong> In some cases, Instagram can collect information about other devices around you or connected to the same WiFi network. This lets Instagram collect data about devices that are not connected to Instagram, and can be used to detect other Instagram users close by.</li>
+<li><strong>Other websites you visit.</strong> Many websites include code from Facebook or Instagram. If you visit any of these websites, Facebook/Instagram can see you&#39;ve visited that website. Many websites go further, reporting what you did while you were on their site.</li>
+<li><strong>Other things you do.</strong> Businesses that have Facebook or Instagram pages can upload information about what you do with their business to Facebook and Instagram. This includes both online and businesses with physical locations.</li>
+</ul>
+<h2 id="-span-id-privacy-implications-privacy-implications-span-"><span id="privacy-implications">Privacy Implications</span></h2>
+<p>Obviously this is an incredible amount of information. With all of this, Instagram has the ability to track you both on the internet and in real life, as well as build an algorithm that can determine your identity online even if you&#39;re not logged into Instagram. By tracking these patterns, Instagram has an intimate model of how you behave online and what kind of person you are.</p>
+<p>To make this even worse, Instagram is owned by Facebook, and all the information above is shared between the two. Facebook, Instagram, and Facebook Messenger all collect similar data, allowing them to watch you and your interactions very closely.</p>
+<p>One other thing that&#39;s important to mention is that Instagram has collected this information <em>for years</em>. Instagram&#39;s Data Policy hasn&#39;t been meaningfully changed since April 2018, and many of the provisions laid out in the policy haven&#39;t changed since 2013. (<a href="https://web.archive.org/web/20180228170913/https://help.instagram.com/155833707900388?helpref=page_content">Here&#39;s the archived 2013 version of Instagram&#39;s Privacy Policy.</a>) I am thrilled that people are becoming aware of how Instagram collects information about users, but I think it&#39;s important to note that none of this is new in the December 2020 Privacy Policy update as some have mistakenly claimed.</p>
+<p>If you&#39;re curious about seeing the information Instagram has on you, you&#39;re in luck — Instagram lets you see <em>some</em> of what it&#39;s collected. On mobile, open Settings in Instagram and tap on &quot;Security&quot;. Under &quot;Data and History&quot;, tap &quot;Access Data&quot;. Go ahead and scroll through all the categories and see what&#39;s in there. Pay special attention to &quot;Ad Interests&quot; at the very bottom, which is a list of everything Instagram thinks you&#39;re interested in. When I checked, Instagram had given me more than 400 interests.</p>
+<p>You can also <a href="https://www.instagram.com/accounts/access_tool/">view your data here</a>.</p>
+<h2 id="-span-id-protecting-yourself-protecting-yourself-span-"><span id="protecting-yourself">Protecting Yourself</span></h2>
+<p>At the end of the day, if you use Instagram, there&#39;s no way to completely avoid being tracked. An increasing number of people are uncomfortable with that fact, and that&#39;s awesome. Protecting your privacy <a href="https://lifehacker.com/why-you-should-care-about-and-defend-your-privacy-5904966">is one of the most important things you can do online.</a> However, not all of us have the luxury of being able to completely abandon social media, and many more find a lot of value in the services Instagram provide.</p>
+<p>If you don&#39;t want to get rid of Instagram completely, there are steps you can take to limit the information Instagram can collect.</p>
+<p>Disabling location access forbids Instagram from accessing your precise <abbr>GPS</abbr> location. It will still be able to access your general location based on your IP address, WiFi access point location, and other sources.</p>
+<p>Disabling access to your contacts prevents Instagram from uploading and storing information about your friends, family, and other contacts. Instagram will still be able to track your relationships on the Instagram platform.</p>
+<h3 id="ios">iOS</h3>
+<p>Follow <a href="https://www.digitaltrends.com/mobile/how-to-control-ios-app-permissions/">this guide</a> to change app permissions on your iPhone. Deny permissions for Location and Contacts. If you don&#39;t use the Instagram camera, you can also disable Camera and Microphone permissions.</p>
+<h3 id="android">Android</h3>
+<p>Follow <a href="https://support.google.com/android/answer/9431959?hl=en">this help article</a> to change app permissions on your phone. Deny permissions for Location, Contacts, and Phone. If you do not use the Instagram camera, you can also deny Microphone and Camera permissions. You also have the option to allow Instagram to ask for permission every time they want to access any of these by setting their permissions to Ask Every Time.</p>
+<h3 id="additional-steps">Additional Steps</h3>
+<h4 id="leaking-photo-location">Leaking Photo Location</h4>
+<p>As noted above, if your phone&#39;s camera stores locations along with your photos, Instagram has access to the location where any photo shared on its platform was taken. In order to prevent this, deny location permissions to both Instagram and the camera app.</p>
+<h4 id="deleting-contacts">Deleting Contacts</h4>
+<p>After you&#39;ve disabled Contacts permissions, delete your uploaded contacts from Instagram <a href="https://www.instagram.com/accounts/contact_history/">using this tool</a>.</p>
+<h2 id="-span-id-the-next-level-the-next-level-span-"><span id="the-next-level">The Next Level</span></h2>
+<p>Disabling permissions is a start, but in order to prevent Instagram from tracking your devices and what you do on the internet, you need to go a step further.</p>
+<p>In order to prevent Instagram from tracking your device information and nearby devices, use the Instagram website instead of the app. Since web apps are much more locked down than traditional apps, Instagram doesn&#39;t have access to your device&#39;s information or your nearby devices. You can install the Instagram site as a web app on your phone&#39;s home screen by <a href="https://mobilesyrup.com/2020/05/24/how-install-progressive-web-app-pwa-android-ios-pc-mac/">following this guide</a>.</p>
+<p>To stop Instagram from tracking you across the internet, you need to install an ad blocker. These addons block small pieces of code Instagram has placed inside many websites that tell Instagram you&#39;ve visited that website. My two favorite ad blockers are <a href="https://adblockplus.org/">Adblock Plus</a> and <a href="https://ublockorigin.com/">uBlock Origin</a>, and they are available for all major desktop and some mobile browsers. In order to protect you from this tracking entirely, make sure you have an ad blocker on both your computer and phone.</p>
+<p>Taking these steps significantly reduces the amount of information Instagram collects about you outside of Instagram. These extra steps are perfect for people who are serious about privacy but aren&#39;t able to completely quit social media.</p>
+<h2 id="-span-id-in-review-in-review-span-"><span id="in-review">In Review</span></h2>
+<p>Instagram collects a massive amount of data on its users, both on and off its platform. A few simple steps will greatly help you improve your privacy with Instagram. Limiting the app&#39;s permissions on your phone, using the Instagram web app, and installing an ad blocker will all help to limit the amount of information Instagram is able to track about you.</p>
+<p>If you are interested in further increasing your privacy, DuckDuckGo has published a series of articles on protecting your privacy on all your devices. You can <a href="https://spreadprivacy.com/tag/device-privacy-tips/">read the articles here</a>.</p>
+
+ </article>
+ <div class="article-info footer-info">
+ tags: privacy, instagram, facebook<br>
+ 
+ </div>
+ </main>
+ </div>
+ <div class="col-md-1 col-lg-2"></div>
+ </div>
+ </div>
+ <!--<footer>
+        <div class="footer">
+            &#169; 2021 Matthew Miller.
+        </div>
+    </footer>0-->
+ 
+ <footer>
+ <div class="container footer-main">
+ <div class="row">
+ <div class="col-sm-1"></div>
+ <div class="col-sm-5">
+ <a href="/privacy.html">Privacy</a> — I don't watch you <br>
+ <a href="/attribution.html">Attribution</a> <br>
+ &#169; 2021 Matthew Miller. Unless otherwise noted, all content is licensed under the <a
+                        href="https://creativecommons.org/licenses/by-sa/4.0/?ref=ccchooser">Creative Commons <nobr>BY-SA</nobr> 4.0</a>
+ <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> <i
+                        class="fab fa-creative-commons-sa"></i>
+ </div>
+ <div class="col-sm-5 footer-links">
+ <a href="/">Home</a> •
+ <a href="/photography/">Photography</a> •
+ <a href="/writing/">Writing</a> •
+ <a href="/contact/">Contact</a>
+ <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i
+                            class="fab fa-instagram"></i></a>
+ <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
+ </div>
+ <div class="col-sm-1"></div>
+ </div>
+ </div>
+ </footer>
+ 
+ <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
+ <script src="/js/lazyload.js"></script>
+
+ <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1005c62af3fe4147beb401d634dd80ac"}'></script><!-- End Cloudflare Web Analytics --></body>
+
+</html>]]></description><link>https://justmatt.co/writing/2020-12-20-instagram-privacy.html</link><guid isPermaLink="true">https://justmatt.co/writing/2020-12-20-instagram-privacy.html</guid><dc:creator><![CDATA[Matthew Miller]]></dc:creator><pubDate>Sun, 20 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[How Shall I Then Vote?]]></title><description><![CDATA[<!doctype html>
+<html itemscope itemtype="http://schema.org/Article">
+
+<head>
+ <meta charset="utf-8" />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+ <title>How Shall I Then Vote? | Just Matt</title>
+
+ <meta name="description" content="In a little more than a week, America will make what we&amp;#39;re being told is the most important national decision we&amp;#39;ve ever faced. The choice between Joe Biden and Donald Trump has thrown many Americans, especially Christians, into confusion. While many Christians favor Trump&amp;#39;s economic policies over those of Biden, Trump&amp;#39;s unabashedly arrogant, scorched-earth demeanor as well as both candidates&amp;#39; history of sexual transgression and disregard for Christian values give voters pause. When presented with such a monumental choice and no good options, how should Christians respond? These are the questions I&amp;#39;ve been asking myself for the last few months..." />
+
+ <!-- Schema.org markup for Google+ -->
+ <meta itemprop="name" content="How Shall I Then Vote? | Just Matt">
+ <meta itemprop="description" content="In a little more than a week, America will make what we&amp;#39;re being told is the most important national decision we&amp;#39;ve ever faced. The choice between Joe Biden and Donald Trump has thrown many Americans, especially Christians, into confusion. While many Christians favor Trump&amp;#39;s economic policies over those of Biden, Trump&amp;#39;s unabashedly arrogant, scorched-earth demeanor as well as both candidates&amp;#39; history of sexual transgression and disregard for Christian values give voters pause. When presented with such a monumental choice and no good options, how should Christians respond? These are the questions I&amp;#39;ve been asking myself for the last few months...">
+ <meta itemprop="image" content="/images/polls-2000.jpg">
+
+ <meta property="og:title" content="How Shall I Then Vote? | Just Matt" />
+ <meta property="og:description" content="In a little more than a week, America will make what we&amp;#39;re being told is the most important national decision we&amp;#39;ve ever faced. The choice between Joe Biden and Donald Trump has thrown many Americans, especially Christians, into confusion. While many Christians favor Trump&amp;#39;s economic policies over those of Biden, Trump&amp;#39;s unabashedly arrogant, scorched-earth demeanor as well as both candidates&amp;#39; history of sexual transgression and disregard for Christian values give voters pause. When presented with such a monumental choice and no good options, how should Christians respond? These are the questions I&amp;#39;ve been asking myself for the last few months..." />
+ <meta property="og:type" content="article" />
+ <meta property="og:author" content="Matthew Miller" />
+ <meta property="og:published_time" content="Sat Oct 24 2020 20:00:00 GMT-0400 (Eastern Daylight Time)" />
+ <meta property="og:url" content="https://justmatt.co/writing/2020-10-25-how-shall-I-then-vote.html" />
+ <meta property="og:image" content="/images/polls-2000.jpg" />
+ <meta property="og:site_name" content="Just Matt" />
+
+ <meta name="twitter:card" content="summary" />
+ <meta name="twitter:title" content="How Shall I Then Vote? | Just Matt" />
+ <meta name="twitter:description" content="" />
+ <meta name="twitter:image" content="/images/polls-2000.jpg" />
+
+ <link rel="stylesheet" href="/css/article.css" />
+
+</head>
+
+<body>
+ <div class="container h-100 flex-grow-1">
+ <div class="row align-items-center h-100 navheader">
+ <!-- Vertical align center: https://stackoverflow.com/a/42252877/3546490 -->
+ <div class="col-2">
+ <a href="/">
+ <img 
+                    src="/assets/logo-black.png" 
+                    class="navheader-logo" />
+ </a>
+ </div>
+ <div class="col-md-10 col-sm-10">
+ 
+ <nav class="navheader-menu">
+ <a class="navheader-menu-item" href="/"><abbr>HOME</abbr></a> //
+ <a class="navheader-menu-item" href="/photography/"><abbr>PHOTOGRAPHY</abbr></a> //
+ <a class="navheader-menu-item" href="/writing/"><abbr>WRITING</abbr></a> //
+ <a class="navheader-menu-item" href="/contact/"><abbr>CONTACT</abbr></a>
+ <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i class="fab fa-instagram"></i></a>
+ <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
+ 
+ </nav>
+ </div>
+ </div> <div class="row">
+ <div class="col-md-1 col-lg-2"></div>
+ <div class="col-lg-8 col-md-10">
+ <main>
+ <header>
+ <h1 class="title">How Shall I Then Vote?</h1>
+ <div class="article-info">
+ Published Sunday October 25th, 2020 by Matthew Miller — 1775 words — 6 min read
+ </div>
+ </header>
+ <article>
+ <picture class="article-image">
+ <source class="article-image-src" type="image/webp" src="/images/polls-50.webp" data-srcset="/images/polls-50.webp 50w,
+                            /images/polls-500.webp 500w,
+                            /images/polls-1000.webp 1000w,
+                            /images/polls-2000.webp 2000w" />
+ <img class="article-image" src="/images/polls-50.jpg" data-srcset="/images/polls-50.jpg 50w,
+                            /images/polls-500.jpg 500w,
+                            /images/polls-1000.jpg 1000w,
+                            /images/polls-2000.jpg 2000w" />
+ </picture>
+ <p>In a little more than a week, America will make what we&#39;re being told is the most important national decision we&#39;ve ever faced. The choice between Joe Biden and Donald Trump has thrown many Americans, especially Christians, into confusion. While many Christians favor Trump&#39;s economic policies over those of Biden, Trump&#39;s unabashedly arrogant, scorched-earth demeanor as well as both candidates&#39; history of sexual transgression and disregard for Christian values give voters pause. When presented with such a monumental choice and no good options, how should Christians respond?</p>
+<p>These are the questions I&#39;ve been asking myself for the last few months as the <abbr>COVID</abbr> pandemic has dragged on and the election drawn closer. It&#39;s been an eventful summer; with the lockdowns, the George Floyd demonstrations and riots, and the political antics leading up to November, there has been a lot that has caused me to consider how I believe a Christian should respond to national events. As I&#39;ve watched believers tear into each other and non-believers alike over political ideology and personal opinion, I&#39;ve struggled long and hard to figure out how I must act so that my primary calling as a Christian is not affected. After much study and contemplation, I want to offer my opinion to those who are struggling with the same questions.</p>
+<h3 id="holding-fast-to-what-is-good">Holding Fast to What is Good</h3>
+<p>The first passage that came to mind when studying this topic was Romans 12. In this chapter, Paul exhorts the Christians of Rome to present their bodies as a living sacrifice to God, transforming their minds to follow the will of God (v. 2, 3). The rest of the chapter is spent enumerating what a Christian who is living according to this exhortation will look like. I was specifically drawn to verse 9: &quot;Let love be genuine. Abhor what is evil; hold fast to what is good.&quot;</p>
+<p>This verse is an opening statement for a list of things a true Christian will cling to. The list continues on:</p>
+<blockquote>
+<p>10 Love one another with brotherly affection. Outdo one another in showing honor.</p>
+<p>12 Rejoice in hope, be patient in tribulation, be constant in prayer.</p>
+<p>14 Bless those who persecute you; bless and do not curse them.</p>
+<p>15 Rejoice with those who rejoice, weep with those who weep.</p>
+<p>16 Live in harmony with one another. Do not be haughty, but associate with the lowly. Never be wise in your own sight.</p>
+<p>17 Repay no one evil for evil, but give thought to do what is honorable in the sight of all.</p>
+<p>18 If possible, so far as it depends on you, live peaceably with all.</p>
+<p>20 To the contrary, “if your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by so doing you will heap burning coals on his head.”</p>
+<p>21 Do not be overcome by evil, but overcome evil with good.</p>
+</blockquote>
+<p>These verses exist in stark contrast to the entire political climate of modern America. Politicians regularly and repeatedly are boastful, arrogant, vengeful, divisive, slanderous, and dishonest, and Christians often take on those same characteristics when they wade into the political morass. Our personal conduct is held to a very high eternal standard, no matter the context, and right alongside is the conduct of those we support and promote. As I was reading Paul&#39;s command, it struck me that this list left no room for the concept of the &quot;lesser of two evils.&quot; Paul says to <em>abhor</em> evil and <em>hold fast</em> to good — not to what is less evil.</p>
+<h3 id="the-eternal-standard">The Eternal Standard</h3>
+<p>This idea holds special relevance in the midst of our election for two big reasons. The first is that our vote, along with everything else we&#39;ve ever done, will be judged. Jesus promises in Matthew 12:36 that we will give an account for every idle, careless word we utter. If this is true, our vote will certainly be questioned, and according to the standard laid out in Romans 12, our support will not be judged by whether the alternative was worse.</p>
+<p>There are those that would say they do not support the moral decisions of their preferred candidate, only their political decisions. The problem is at the end of the day, they still have to check a box that says &quot;I want <nobr>so-and</nobr>-so to be President of the United States.&quot; By consciously enabling a certain person to gain this authority, no matter how insignificant your part is, you help to legitimize their actions in that position. And I believe because of the standard to which we are held, we will be judged on some level for the actions of those who we legitimize.</p>
+<h3 id="our-testimony">Our Testimony</h3>
+<p>The second reason the ideas of Romans 12 are relevant is that whether or not God judges us for who we vote for, the rest of the world certainly will. The primary way Christians demonstrate Christ in the world is by imitating Christ in all we do, and by loving what is good. This is our testimony — a comprehensive statement and demonstration that we have been saved through Christ from both Hell and ourselves.</p>
+<p>The support and defense we demonstrate for others becomes just as much a part of our testimony as do our personal actions. Even a quick investigation will reveal that one of the biggest reasons the Church is despised today is because of its overwhelming support of President Trump. This hatred stems from a love of sin, yes, but it also stems from disgust at the moral hypocrisy of a group who calls men to be holy and yet defends a man who is anything other than such.</p>
+<p>As a Christian whose calling is first and foremost to spread the good news of Christ, I am called to lay aside every weight that holds me back from running the Christian race (Hebrews 12:1). Anything that tarnishes my reputation in the eyes of the unsaved should be abandoned as something that limits my ability to share the Gospel with them. Yes, I will always be hated for my support of Christ (Matthew 5:12; 1 Peter 4:12), and I am to rejoice when I am persecuted for the cause of Christ (Matthew 5:<nobr>10-12</nobr>; 1 Peter 4:<nobr>12-14</nobr>, 16, 19). But we need to be careful to recognize that criticism is not necessarily persecution. When we suffer for our evildoing, we suffer justly because of our sin (1 Peter 4:15).</p>
+<p>Being persecuted for my support of a political candidate is not the same as being persecuted for the cause of Christ. Being hated for my choice of leader is not honorable because it limits my ability to influence those around me who are lost in darkness. If my support for a human leader stops me from doing the will of my heavenly Father, I need to take a good, hard look at with whom my allegiance actually lies.</p>
+<h3 id="god-is-still-in-control">God is Still in Control</h3>
+<p>Most of the arguments I&#39;ve seen regarding why Christians should vote for a certain candidate come from a place of fear. If <nobr>so-and</nobr>-so is elected, the argument runs, the country will be totally lost to hedonism and will turn completely away from God. Our duty, therefore, is said to be keeping in power those politicians who will keep America from further following the bad path.</p>
+<p>I take issue with this argument first because a Christian response to any situation should never be based on fear or worry. In Matthew 5, Christ teaches that God watches over the animals of the field, and that He will watch over us all the more. Verse 25 states, &quot;Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear…&quot; Any argument based on fear is illegitimate for the Christian and demonstrates a lack of faith.</p>
+<p>The other issue I have with this argument is its subtle suggestion that God is not in complete control of the nation&#39;s rulers. We as Christians accept God&#39;s ultimate sovereignty in all aspects of our life, but somehow we leave this understanding behind completely when discussing the ballot box. The Bible clearly teaches that God appoints the rulers of the earth and that He guides their decisions (Daniel 2:21; Proverbs 21:1). We can have faith that God&#39;s will is going to be accomplished no matter what happens in the election, and that our vote will not thwart the sovereign will of God.</p>
+<p>One could argue that voting is still necessary because God can be swayed by His people. While it&#39;s true He can give the people what they want, this is usually the result of rebellion. For instance, take the account of Israel&#39;s first king in 1 Samuel 8. God had His plan for Israel, but the nation rejected it, and therefore God relented and gave into the people out of the hardness of their heart, recognizing they would only learn through the results of their actions. God&#39;s plan is already best, and if we want to change it, it will be from pride and hardness of heart.</p>
+<h3 id="how-to-respond">How to Respond</h3>
+<p>Considering all of these things and our primary responsibility as Christians, how should we respond to the choice set before us? After much consideration and study, I have decided that I cannot legitimize the actions of any of the current candidates, nor can I be forced to support a &quot;lesser&quot; evil, considering it is still evil. I have decided instead not to cast a vote, trusting that God will accomplish His will whether or not I place my support in a candidate.</p>
+<p>This doesn&#39;t mean I do not care; rather, I am choosing to appeal to a power far greater than the president for the guidance of this country. We all should earnestly seek and pray for God&#39;s will to be done in our country, just as we pray for His will in all things. My hope is that when we surrender our politics to the One who controls the universe, we will then be tools even better equipped to spread His message of salvation to all people, even those who would shun us for our political views.</p>
+<hr>
+<p>I also want to reiterate that no matter my personal opinions, my primary call from God is to spread the Gospel and to love people, and therefore I cannot judge others for holding different views. I enjoy discussion and I would encourage anyone to contact me if they would like to talk about the things I&#39;ve written. But by the grace of God I will continue to love those God has placed in my life.</p>
+<p>(All Bible quotations taken from the English Standard Version)</p>
+
+ </article>
+ <div class="article-info footer-info">
+ tags: politics, election<br>
+ 
+ </div>
+ </main>
+ </div>
+ <div class="col-md-1 col-lg-2"></div>
+ </div>
+ </div>
+ <!--<footer>
+        <div class="footer">
+            &#169; 2021 Matthew Miller.
+        </div>
+    </footer>0-->
+ 
+ <footer>
+ <div class="container footer-main">
+ <div class="row">
+ <div class="col-sm-1"></div>
+ <div class="col-sm-5">
+ <a href="/privacy.html">Privacy</a> — I don't watch you <br>
+ <a href="/attribution.html">Attribution</a> <br>
+ &#169; 2021 Matthew Miller. Unless otherwise noted, all content is licensed under the <a
+                        href="https://creativecommons.org/licenses/by-sa/4.0/?ref=ccchooser">Creative Commons <nobr>BY-SA</nobr> 4.0</a>
+ <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> <i
+                        class="fab fa-creative-commons-sa"></i>
+ </div>
+ <div class="col-sm-5 footer-links">
+ <a href="/">Home</a> •
+ <a href="/photography/">Photography</a> •
+ <a href="/writing/">Writing</a> •
+ <a href="/contact/">Contact</a>
+ <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i
+                            class="fab fa-instagram"></i></a>
+ <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
+ </div>
+ <div class="col-sm-1"></div>
+ </div>
+ </div>
+ </footer>
+ 
+ <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
+ <script src="/js/lazyload.js"></script>
+
+ <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1005c62af3fe4147beb401d634dd80ac"}'></script><!-- End Cloudflare Web Analytics --></body>
+
+</html>]]></description><link>https://justmatt.co/writing/2020-10-25-how-shall-I-then-vote.html</link><guid isPermaLink="true">https://justmatt.co/writing/2020-10-25-how-shall-I-then-vote.html</guid><dc:creator><![CDATA[Matthew Miller]]></dc:creator><pubDate>Sun, 25 Oct 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[An Empathetic Response to George Floyd]]></title><description><![CDATA[<!doctype html>
+<html itemscope itemtype="http://schema.org/Article">
+
+<head>
+ <meta charset="utf-8" />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+ <title>An Empathetic Response to George Floyd | Just Matt</title>
+
+ <meta name="description" content="In recent days, America has been overrun by news of the killing of George Floyd and the subsequent response by governments, police officers, and American communities. Anybody who has watched these events unfold has to feel pain in their hearts as cities, communities, and families are torn apart by the destruction and intense language used to discuss these issues. It is an awful site to see a land you love torched as the nation shreds the unity we worked hard to feel during the COVID lockdowns. Especially after protests turned into violent riots, two very distinct viewpoints have emerged, unfortunately..." />
+
+ <!-- Schema.org markup for Google+ -->
+ <meta itemprop="name" content="An Empathetic Response to George Floyd | Just Matt">
+ <meta itemprop="description" content="In recent days, America has been overrun by news of the killing of George Floyd and the subsequent response by governments, police officers, and American communities. Anybody who has watched these events unfold has to feel pain in their hearts as cities, communities, and families are torn apart by the destruction and intense language used to discuss these issues. It is an awful site to see a land you love torched as the nation shreds the unity we worked hard to feel during the COVID lockdowns. Especially after protests turned into violent riots, two very distinct viewpoints have emerged, unfortunately...">
+ <meta itemprop="image" content="/images/riot-2000.jpg">
+
+ <meta property="og:title" content="An Empathetic Response to George Floyd | Just Matt" />
+ <meta property="og:description" content="In recent days, America has been overrun by news of the killing of George Floyd and the subsequent response by governments, police officers, and American communities. Anybody who has watched these events unfold has to feel pain in their hearts as cities, communities, and families are torn apart by the destruction and intense language used to discuss these issues. It is an awful site to see a land you love torched as the nation shreds the unity we worked hard to feel during the COVID lockdowns. Especially after protests turned into violent riots, two very distinct viewpoints have emerged, unfortunately..." />
+ <meta property="og:type" content="article" />
+ <meta property="og:author" content="Matthew Miller" />
+ <meta property="og:published_time" content="Sun May 31 2020 20:00:00 GMT-0400 (Eastern Daylight Time)" />
+ <meta property="og:url" content="https://justmatt.co/writing/2020-06-01-an-empathetic-response.html" />
+ <meta property="og:image" content="/images/riot-2000.jpg" />
+ <meta property="og:site_name" content="Just Matt" />
+
+ <meta name="twitter:card" content="summary" />
+ <meta name="twitter:title" content="An Empathetic Response to George Floyd | Just Matt" />
+ <meta name="twitter:description" content="" />
+ <meta name="twitter:image" content="/images/riot-2000.jpg" />
+
+ <link rel="stylesheet" href="/css/article.css" />
+
+</head>
+
+<body>
+ <div class="container h-100 flex-grow-1">
+ <div class="row align-items-center h-100 navheader">
+ <!-- Vertical align center: https://stackoverflow.com/a/42252877/3546490 -->
+ <div class="col-2">
+ <a href="/">
+ <img 
+                    src="/assets/logo-black.png" 
+                    class="navheader-logo" />
+ </a>
+ </div>
+ <div class="col-md-10 col-sm-10">
+ 
+ <nav class="navheader-menu">
+ <a class="navheader-menu-item" href="/"><abbr>HOME</abbr></a> //
+ <a class="navheader-menu-item" href="/photography/"><abbr>PHOTOGRAPHY</abbr></a> //
+ <a class="navheader-menu-item" href="/writing/"><abbr>WRITING</abbr></a> //
+ <a class="navheader-menu-item" href="/contact/"><abbr>CONTACT</abbr></a>
+ <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i class="fab fa-instagram"></i></a>
+ <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
+ 
+ </nav>
+ </div>
+ </div> <div class="row">
+ <div class="col-md-1 col-lg-2"></div>
+ <div class="col-lg-8 col-md-10">
+ <main>
+ <header>
+ <h1 class="title">An Empathetic Response to George Floyd</h1>
+ <div class="article-info">
+ Published Monday June 1st, 2020 by Matthew Miller — 2171 words — 8 min read
+ </div>
+ </header>
+ <article>
+ <picture class="article-image">
+ <source class="article-image-src" type="image/webp" src="/images/riot-50.webp" data-srcset="/images/riot-50.webp 50w,
+                            /images/riot-500.webp 500w,
+                            /images/riot-1000.webp 1000w,
+                            /images/riot-2000.webp 2000w" />
+ <img class="article-image" src="/images/riot-50.jpg" data-srcset="/images/riot-50.jpg 50w,
+                            /images/riot-500.jpg 500w,
+                            /images/riot-1000.jpg 1000w,
+                            /images/riot-2000.jpg 2000w" />
+ </picture>
+ <p>In recent days, America has been overrun by news of the killing of George Floyd and the subsequent response by governments, police officers, and American communities. Anybody who has watched these events unfold has to feel pain in their hearts as cities, communities, and families are torn apart by the destruction and intense language used to discuss these issues. It is an awful site to see a land you love torched as the nation shreds the unity we worked hard to feel during the <abbr>COVID</abbr> lockdowns.</p>
+<p>Especially after protests turned into violent riots, two very distinct viewpoints have emerged, unfortunately once again along party lines. While no major voice supports the killing of Floyd, one side has overwhelmingly focused their attention on the motivations of the protestors and rioters, supporting the riots as righteous action against an overwhelmingly racist society. The other side looks at the same events and sees a self-serving group of criminals taking advantage of a national tragedy for their own personal gain. Or at least, that&#39;s what reading national news from either perspective would lead you to believe.</p>
+<p>As with most issues, both viewpoints are considerably more nuanced and, if you look for opinions other than those pushed by inflammatory Twitter shock-jocks and the news media, more balanced. Most people on both sides of the issue see the violence as objectively bad <a href="https://nypost.com/2020/05/29/righteous-rage-over-george-floyds-death-takes-senseless-turn/">[New York Post]</a> <a href="https://www.cnn.com/2020/05/31/opinions/carnage-trump-right-and-wrong-answers-avlon/index.html">[<abbr>CNN</abbr>]</a>. There are those on both sides who see rioting as fundamentally counterproductive <a href="https://www.nytimes.com/2020/05/30/opinion/sunday/riots-george-floyd.html">[New York Times]</a> <a href="https://www.nationalreview.com/2020/05/anger-is-justified-riots-never-are/">[National Review]</a>. </p>
+<p>I think the key to making actual forward progress on this issue is first and foremost attempting to cut through the divisive rhetoric and trying to understand others&#39; perspectives, especially those of the African-American community. Once we begin to see where the issue truly lies, we can begin to reach out and start to heal. So where then does the difference in perspective really divide us, and what steps can we personally take to help each other and our nation?</p>
+<h3 id="a-difference-in-perspective">A Difference In Perspective</h3>
+<p>In my estimation, excluding polarizing factors such as Trump&#39;s response and opposing views on whether racism still exists in the US, the main difference between the conservative and liberal positions is what they consider to be the motivations of the rioters and how much those motivations deserve to be considered. Consider, first, Mitch Albom <a href="https://www.freep.com/story/sports/columnists/mitch-albom/2020/05/31/mitch-albom-george-floyd-black-minneapolis-white-police/5291296002/">in an article from the Detroit Free Press</a>:</p>
+<blockquote>
+<p>George Floyd is not the first black man to die from a white cop’s indifference. He’s not even the first to die from a chokehold. When something unforgivable happens over and over again, what are people to do? Where does the grief and the anger go?</p>
+</blockquote>
+<p>Similarly, Arwa Mahdawi <a href="https://www.theguardian.com/commentisfree/2020/may/30/if-violence-isnt-way-end-racism-america-then-what-is-george-floyd-protests">writes in The Guardian</a>:</p>
+<blockquote>
+<p>When you are oppressed there is no acceptable way to fight against your oppression. You get branded “unpatriotic” for peacefully taking a knee to protest against police brutality. You get vilified for using boycotts as a non-violent tool of resistance. You get called “<abbr>THUGS</abbr>” when, after the murder of yet another unarmed black man by the police, you protest in the streets.</p>
+</blockquote>
+<p>These statements reveal a fundamental attempt to understand why protests are so volatile and turn violent so quickly. To some, they may sound like endorsements or supportive of the violence, but as Mahdawi goes on to state, </p>
+<blockquote>
+<p>Don’t get me wrong, I’m not glorifying violence – that’s what the president of the United States is doing. And I’m certainly not calling for violence. I’m simply saying we must interrogate what we call “violence” and what we call “policy.” Many of the people yelling “violence is not the answer” about the riots in Minneapolis are the same people who wholeheartedly support America’s endless wars.</p>
+</blockquote>
+<p>These statements don&#39;t condone the violence — if anything, they question efficacy of violence as a concept. But they are saying that in the context of how they perceive modern America, the violence seems to be a natural reaction from a group of exasperated people pushed by society to act out.</p>
+<p>To give a less political analogy, let&#39;s use a child or teen who starts to act disruptively. Oftentimes, if a child begins to lash out and become increasingly violent, it is indicative of a deeper problem. Scholastic <a href="https://www.scholastic.com/parents/family-life/social-emotional-learning/social-skills-for-kids/8-warning-signs-your-child-under-too-much-stress.html">published an article</a> that suggests stress is one of the reasons children lash out. While we don&#39;t excuse the wrong behavior of the child, it&#39;s also our responsibility to look beyond the immediate negative effects and try to discover and potentially solve any underlying issues that are hurting the child.</p>
+<p>Dr. Leon Seltzer <a href="https://www.psychologytoday.com/us/blog/evolution-the-self/201602/anger-when-adults-act-children-and-why">writes in Psychology Today</a>:</p>
+<blockquote>
+<p>When in our gut we feel “assaulted” by <nobr>another—</nobr>and it hardly matters whether such a felt attack is verbal or <nobr>physical—</nobr>our emotional distress derives from such feelings as being disregarded, devalued, distrusted, guilty, rejected, or unloved. But of all the possible reactions here, perhaps the deepest, most survival-related emotion is feeling powerless. For when someone says or does something hurtful to our feelings, at the most primal level it revivifies ancient fears of helplessness and hopelessness.</p>
+</blockquote>
+<blockquote>
+<p>So our reacting with self-righteous anger (and what anger isn’t self-righteous?!) immediately sticks a band-aid over our hurt. And furthermore, the emotion has the effect of negating the other person’s “rightful” authority to judge us.</p>
+</blockquote>
+<p>The basis for the liberal understanding of this issue lies in this idea, that rioters are expressing themselves in a fundamentally human way because of the situation they have found themselves in their entire lives. This does <em>not</em> imply that &quot;human&quot; means it&#39;s right, or that what we&#39;re seeing happen across America is a good thing. It is an attempt to understand the problem and to show the necessity of addressing the issue because, as a part of human nature, this sort of thing will continue until the underlying issue is addressed.</p>
+<h3 id="conservatives">Conservatives</h3>
+<p>The conservative perspective (aside from their opinions on the liberal position) still sees the killing of George Floyd as a serious issue, but generally sees the issue of race as an inflammatory distraction from what would otherwise be an egregious killing by a police officer. Andrew McCarthy <a href="https://www.nationalreview.com/2020/05/why-did-it-take-so-long-to-arrest-derek-chauvin/">writes in the National Review</a>:</p>
+<blockquote>
+<p>Since race, regrettably, is the full-field explanation for all phenomena for many progressives, the controversy becomes a <nobr>black–</nobr>white thing because the victim was black and the perp is white… Nevertheless, I don’t look at this as a racial issue, or a “cops against black men” issue. It is a matter of <em>equal protection under the law</em>. Any civilian, regardless of race, who did what Chauvin did would have been placed under arrest.</p>
+</blockquote>
+<p>Conservatives similarly don&#39;t dismiss the legitimacy of anger displayed over Floyd&#39;s murder. The New York Post <a href="https://nypost.com/2020/05/29/righteous-rage-over-george-floyds-death-takes-senseless-turn/">sums up their estimation of the issue</a> itself by saying, &quot;Police use of such unnecessary force is a betrayal of every good cop and of the public itself. Outrage over it is entirely righteous.&quot; This, however is where the narrative turns.</p>
+<p>Michael Dougherty <a href="https://www.nationalreview.com/2020/05/anger-is-justified-riots-never-are/">writes in the National Review</a>:</p>
+<blockquote>
+<p>People do not loot seeking justice for George Floyd, they loot for the loot. People don’t commit arson to make a political statement. What does burning an AutoZone even communicate if it could be translated into politics? People don’t assault those citizens standing in the way of looting and arson as a cry for help or to draw attention to social problems, they do so because looting and arson offer satisfactions to a reprobate will.</p>
+</blockquote>
+<p>Conservative articles focus on the damage that rioting has done to communities, showing how riots often lead to increased crime, lower property values, and turn new individuals off from revitalizing the area <a href="https://www.jstor.org/stable/40056402?seq=1">[source]</a>, as well as giving examples of rioters burning low-income housing that would&#39;ve helped members of the same community. They say the motivations of the rioters are purely evil, and moreover are irrelevant to the discussion.</p>
+<h3 id="moderation">Moderation</h3>
+<p>Now to be sure, there are radicals on both sides of the issue. There are those on the left making excuses for the rioters and encouraging violence, and <a href="https://www.city-journal.org/terrifying-collapse-of-the-rule-of-law">there are those on the right</a> calling the entire issue a fabrication and provocation by liberals, mocking attempts to be conciliatory and demanding even more violent efforts to quell the riots. This discussion is not about them and their vitriolic pot-stirring, but rather the motivations and perspectives of the majority of Americans concerned less with blatant party rhetoric and more with making America a better and safer place.</p>
+<p>It is a fact nobody debates that George Floyd&#39;s murder was a heinous act committed by somebody who does not deserve to wear an officer&#39;s badge. It is a fact that according to scientific studies, riots are harmful and do not accomplish long-term social progress, as well as being unilaterally morally wrong and destructive. It is a fact that America still has race-relation issues simply by virtue of the fact minorities are rioting today across the nation. The question then is how we, the vast majority of Americans still at home under lock-down, respond to this awful situation?</p>
+<h3 id="how-then-shall-we-live-">How Then Shall We Live?</h3>
+<p>I have watched videos this week of rioters screaming into the faces of an elderly white couple trying to cross a street, and I&#39;ve watched footage of police firing simunitions at citizens simply sitting on their front porch while yelling, &quot;Light &#39;em up!&quot; My heart has been grieved as I&#39;ve seen cities burning while violent mobs clash with heavily-militarized police units.</p>
+<p>But I&#39;ve also watched as sheriffs and officers have laid down their arms and masks and knelt in pain alongside protestors in solidarity. I nearly wept as I listened to <a href="https://www.youtube.com/watch?v=kDbKAkb8oLs">the words of Flint, Michigan Sheriff Chris Swanson</a>: &quot;We wanna be with y&#39;all for real, so I took the helmet off, laid the batons down — I wanna make this a parade!&quot;</p>
+<p>To be sure, there are opportunists in this arena taking advantage of this situation for their own personal gain. Violence is not how this problem is going to be solved, and the looting and rioting is absolutely wrong. But we must be very careful not to group those individuals who are talking with those who are fighting. Most fundamentally, everyone is out on the streets because they do not feel understood, and they want to have a voice. Some choose words, some choose vile demonstrations, but the root cause is an ever-present sense of powerlessness that has been inflamed by the murder of an innocent man.</p>
+<p>Therefore, I think the most powerful thing we can do is to listen. We must adopt a truly open mind to listening to the experiences and perspectives of those on the other side of the issue, and practice active listening by proactively asking questions and demonstrating genuine concern for those who have a different perspective. For how can we ever have a conversation if we&#39;re not willing to actually listen? And how are we to show love if we do not try to understand?</p>
+<p>For those of us who claim to be Christians, this is even more central. If we truly believe that Christ is the only true answer to the problems of the world, then we need to be out proactively demonstrating His love towards the people who need it most. We cannot stop by rattling off statements about how God is the only answer to today&#39;s problems and then moving on with our lives. We need to be out calling, writing, and talking to those who care about or are affected by these issues so that we can understand them better ourselves as well as demonstrating to them that we love them enough to listen and put effort into understanding them.</p>
+<p>Community leaders have an even bigger potential because oftentimes they are the voices that give shape to others&#39; views of their community&#39;s attitudes. If you are a community leader, consider that you might be the only voice a member of a different community or race hears on subjects such as these. We all need to be projecting love and care <em>actively</em>, letting it be known that you are open and willing to learn and to listen. Make yourself a safe person to talk to, demonstrating that you want to look beyond your perspective and truly understand how they feel and what they see.</p>
+<p>We have the ability to make a serious difference. Every single one of us has the ability to be a vessel of peace to our neighbors by taking the time to learn and try to understand where they&#39;re coming from, <em>even if you disagree with them</em>. When you&#39;re showing love to someone, it&#39;s much more important that you communicate you care about them than communicating that you think you&#39;re right. If we truly listen and show love to those who are angered by their lack of voice, I think our nation might be able to start healing. There are many issues at play here, and to be sure they will not be solved in a day. But for right now, in the midst of all the chaos and hate, the best we all can do is show love and compassion to those who are hurting.</p>
+
+ </article>
+ <div class="article-info footer-info">
+ tags: politics, race<br>
+ 
+ </div>
+ </main>
+ </div>
+ <div class="col-md-1 col-lg-2"></div>
+ </div>
+ </div>
+ <!--<footer>
+        <div class="footer">
+            &#169; 2021 Matthew Miller.
+        </div>
+    </footer>0-->
+ 
+ <footer>
+ <div class="container footer-main">
+ <div class="row">
+ <div class="col-sm-1"></div>
+ <div class="col-sm-5">
+ <a href="/privacy.html">Privacy</a> — I don't watch you <br>
+ <a href="/attribution.html">Attribution</a> <br>
+ &#169; 2021 Matthew Miller. Unless otherwise noted, all content is licensed under the <a
+                        href="https://creativecommons.org/licenses/by-sa/4.0/?ref=ccchooser">Creative Commons <nobr>BY-SA</nobr> 4.0</a>
+ <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> <i
+                        class="fab fa-creative-commons-sa"></i>
+ </div>
+ <div class="col-sm-5 footer-links">
+ <a href="/">Home</a> •
+ <a href="/photography/">Photography</a> •
+ <a href="/writing/">Writing</a> •
+ <a href="/contact/">Contact</a>
+ <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i
+                            class="fab fa-instagram"></i></a>
+ <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
+ </div>
+ <div class="col-sm-1"></div>
+ </div>
+ </div>
+ </footer>
+ 
+ <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
+ <script src="/js/lazyload.js"></script>
+
+ <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1005c62af3fe4147beb401d634dd80ac"}'></script><!-- End Cloudflare Web Analytics --></body>
+
+</html>]]></description><link>https://justmatt.co/writing/2020-06-01-an-empathetic-response.html</link><guid isPermaLink="true">https://justmatt.co/writing/2020-06-01-an-empathetic-response.html</guid><dc:creator><![CDATA[Matthew Miller]]></dc:creator><pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[Welcome to the new Just Matt]]></title><description><![CDATA[<!doctype html>
+<html itemscope itemtype="http://schema.org/Article">
+
+<head>
+ <meta charset="utf-8" />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+ <title>Welcome to the new Just Matt | Just Matt</title>
+
+ <meta name="description" content="Welcome to my new website! COVID has put an end to a lot of things I was looking forward to, but it also gave me enough downtime to design a completely new website, and for that I am thankful. I&amp;#39;m also looking forward to writing a lot more during the rest of the summer. I haven&amp;#39;t really written anything in quite a while, and I&amp;#39;ve missed it a lot. This will give me the opportunity and platform to create at least a few well-researched essays and other things that interest me. I&amp;#39;m not anticipating much of a theme at this..." />
+
+ <!-- Schema.org markup for Google+ -->
+ <meta itemprop="name" content="Welcome to the new Just Matt | Just Matt">
+ <meta itemprop="description" content="Welcome to my new website! COVID has put an end to a lot of things I was looking forward to, but it also gave me enough downtime to design a completely new website, and for that I am thankful. I&amp;#39;m also looking forward to writing a lot more during the rest of the summer. I haven&amp;#39;t really written anything in quite a while, and I&amp;#39;ve missed it a lot. This will give me the opportunity and platform to create at least a few well-researched essays and other things that interest me. I&amp;#39;m not anticipating much of a theme at this...">
+
+ <meta property="og:title" content="Welcome to the new Just Matt | Just Matt" />
+ <meta property="og:description" content="Welcome to my new website! COVID has put an end to a lot of things I was looking forward to, but it also gave me enough downtime to design a completely new website, and for that I am thankful. I&amp;#39;m also looking forward to writing a lot more during the rest of the summer. I haven&amp;#39;t really written anything in quite a while, and I&amp;#39;ve missed it a lot. This will give me the opportunity and platform to create at least a few well-researched essays and other things that interest me. I&amp;#39;m not anticipating much of a theme at this..." />
+ <meta property="og:type" content="article" />
+ <meta property="og:author" content="Matthew Miller" />
+ <meta property="og:published_time" content="May 31st, 2020" />
+ <meta property="og:url" content="https://justmatt.co/writing/2020-05-31-new-website.html" />
+ <meta property="og:site_name" content="Just Matt" />
+
+ <meta name="twitter:card" content="summary" />
+ <meta name="twitter:title" content="Welcome to the new Just Matt | Just Matt" />
+ <meta name="twitter:description" content="" />
+
+ <link rel="stylesheet" href="/css/article.css" />
+
+</head>
+
+<body>
+ <div class="container h-100 flex-grow-1">
+ <div class="row align-items-center h-100 navheader">
+ <!-- Vertical align center: https://stackoverflow.com/a/42252877/3546490 -->
+ <div class="col-2">
+ <a href="/">
+ <img 
+                    src="/assets/logo-black.png" 
+                    class="navheader-logo" />
+ </a>
+ </div>
+ <div class="col-md-10 col-sm-10">
+ 
+ <nav class="navheader-menu">
+ <a class="navheader-menu-item" href="/"><abbr>HOME</abbr></a> //
+ <a class="navheader-menu-item" href="/photography/"><abbr>PHOTOGRAPHY</abbr></a> //
+ <a class="navheader-menu-item" href="/writing/"><abbr>WRITING</abbr></a> //
+ <a class="navheader-menu-item" href="/contact/"><abbr>CONTACT</abbr></a>
+ <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i class="fab fa-instagram"></i></a>
+ <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
+ 
+ </nav>
+ </div>
+ </div> <div class="row">
+ <div class="col-md-1 col-lg-2"></div>
+ <div class="col-lg-8 col-md-10">
+ <main>
+ <header>
+ <h1 class="title">Welcome to the new Just Matt</h1>
+ <div class="article-info">
+ Published Sunday May 31st, 2020 by Matthew Miller — 134 words — 1 min read
+ </div>
+ </header>
+ <article>
+
+ <p>Welcome to my new website! <abbr>COVID</abbr> has put an end to a lot of things I was looking forward to, but it also gave me enough downtime to design a completely new website, and for that I am thankful.</p>
+<p>I&#39;m also looking forward to writing a lot more during the rest of the summer. I haven&#39;t really written anything in quite a while, and I&#39;ve missed it a lot. This will give me the opportunity and platform to create at least a few well-researched essays and other things that interest me.</p>
+<p>I&#39;m not anticipating much of a theme at this point, seeing as how this is my personal website and it&#39;s bound to be as varied as I am. If you&#39;ve found my site, I hope you enjoy this slice of who I am.</p>
+
+ </article>
+ <div class="article-info footer-info">
+ 
+ 
+ </div>
+ </main>
+ </div>
+ <div class="col-md-1 col-lg-2"></div>
+ </div>
+ </div>
+ <!--<footer>
+        <div class="footer">
+            &#169; 2021 Matthew Miller.
+        </div>
+    </footer>0-->
+ 
+ <footer>
+ <div class="container footer-main">
+ <div class="row">
+ <div class="col-sm-1"></div>
+ <div class="col-sm-5">
+ <a href="/privacy.html">Privacy</a> — I don't watch you <br>
+ <a href="/attribution.html">Attribution</a> <br>
+ &#169; 2021 Matthew Miller. Unless otherwise noted, all content is licensed under the <a
+                        href="https://creativecommons.org/licenses/by-sa/4.0/?ref=ccchooser">Creative Commons <nobr>BY-SA</nobr> 4.0</a>
+ <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> <i
+                        class="fab fa-creative-commons-sa"></i>
+ </div>
+ <div class="col-sm-5 footer-links">
+ <a href="/">Home</a> •
+ <a href="/photography/">Photography</a> •
+ <a href="/writing/">Writing</a> •
+ <a href="/contact/">Contact</a>
+ <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i
+                            class="fab fa-instagram"></i></a>
+ <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
+ </div>
+ <div class="col-sm-1"></div>
+ </div>
+ </div>
+ </footer>
+ 
+ <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
+ <script src="/js/lazyload.js"></script>
+
+ <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1005c62af3fe4147beb401d634dd80ac"}'></script><!-- End Cloudflare Web Analytics --></body>
+
+</html>]]></description><link>https://justmatt.co/writing/2020-05-31-new-website.html</link><guid isPermaLink="true">https://justmatt.co/writing/2020-05-31-new-website.html</guid><dc:creator><![CDATA[Matthew Miller]]></dc:creator><pubDate>Invalid Date</pubDate></item></channel></rss>

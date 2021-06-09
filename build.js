@@ -4,6 +4,8 @@ const Metalsmith = require('metalsmith');
 const markdown = require('metalsmith-markdown');
 const layouts = require('metalsmith-layouts');
 const partials = require('metalsmith-discover-partials');
+const helpers = require('metalsmith-discover-helpers');
+const jstransform = require('metalsmith-in-place');
 
 // Metadata
 const wordcount = require('metalsmith-word-count');
@@ -18,6 +20,7 @@ const permalinks = require('metalsmith-permalinks');
 const collections = require('metalsmith-collections');
 const pagination = require('metalsmith-pagination');
 const sitemap = require('metalsmith-sitemap');
+const feed = require('metalsmith-feed-js');
 
 // Clean/minify
 const htmlmin = require('metalsmith-html-minifier');
@@ -28,6 +31,9 @@ const sass = require('metalsmith-sass');
 const imagemin = require('metalsmith-imagemin');
 const responsiveImages = require('metalsmith-picset-generate');
 const imageHelper = require('metalsmith-picset-handlebars-helper');
+
+// Move npm packages to build directory
+const tufte = require('metalsmith-static');
 
 // Development
 const watch = require('metalsmith-watch');
@@ -59,7 +65,8 @@ Metalsmith(__dirname)
     // Insert metadata into stream
     .metadata({
         site: {
-            title: 'Just Matt'
+            title: 'Just Matt',
+            url: 'https://justmatt.co'
         },
         year: new Date().getFullYear().toString(),
         domain: 'https://justmatt.co'
@@ -68,8 +75,16 @@ Metalsmith(__dirname)
     .use(partials({
         directory: '_partials'
     }))
+    // Register handlebars helpers
+    .use(helpers({
+        directory: '_helpers'
+    }))
+    // Convert hbs expressions within markdown
+    .use(jstransform({
+        pattern: '**/*'
+    }))
     // Convert markdown files to html
-    .use(markdown())
+    //.use(markdown())
     // Count words and insert value into metadata
     .use(wordcount())
     // Append site title to page title in metadata
@@ -122,7 +137,7 @@ Metalsmith(__dirname)
     // Generate article exerpts
     .use(preview({
         pattern: '**/*.html',
-        words: 30
+        words: 100
     }))
     // Parse handlbars templates
     .use(layouts({
@@ -133,6 +148,10 @@ Metalsmith(__dirname)
     .use(typography({
         lang: 'en'
     }))
+    // RSS feed
+    .use(feed({
+        collection: 'articles'
+    }))
     // Minify html
     .use(htmlmin())
     // transpile sass
@@ -142,6 +161,10 @@ Metalsmith(__dirname)
     // Generate sitemap
     .use(sitemap({
         hostname: 'https://justmatt.co'
+    }))
+    .use(tufte({
+        src: 'node_modules/tufte-css',
+        dest: 'css/tufte-css'
     }))
     // Serve files after build
     .use(metalsmithExpress())
