@@ -103,7 +103,6 @@ Metalsmith(__dirname)
     // Collections
     .use(collections({
         articles: {
-            pattern: 'writing/*.md',
             sortBy: 'date',
             reverse: true
         }
@@ -139,11 +138,6 @@ Metalsmith(__dirname)
         pattern: '**/*.html',
         words: 100
     }))
-    // Parse handlbars templates
-    .use(layouts({
-        directory: '_layouts',
-        pattern: '**/*.html'
-    }))
     // Use fancier typography
     .use(typography({
         lang: 'en'
@@ -151,6 +145,15 @@ Metalsmith(__dirname)
     // RSS feed
     .use(feed({
         collection: 'articles'
+    }))
+    // Parse handlbars templates
+    .use(layouts({
+        directory: '_layouts',
+        pattern: '**/*.html'
+    }))
+    // Use fancier typography again to process templates
+    .use(typography({
+        lang: 'en'
     }))
     // Minify html
     .use(htmlmin())
@@ -161,10 +164,6 @@ Metalsmith(__dirname)
     // Generate sitemap
     .use(sitemap({
         hostname: 'https://justmatt.co'
-    }))
-    .use(tufte({
-        src: 'node_modules/tufte-css',
-        dest: 'css/tufte-css'
     }))
     // Serve files after build
     .use(metalsmithExpress())

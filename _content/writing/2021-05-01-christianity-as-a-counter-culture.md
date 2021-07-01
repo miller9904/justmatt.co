@@ -1,5 +1,5 @@
 ---
-title: Introduction to Christianity as a Counter-Culture
+title: Christianity as a Counter-Culture
 author: Matthew Miller
 image: church
 date: 2021-05-01

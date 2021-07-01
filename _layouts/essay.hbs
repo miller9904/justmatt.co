@@ -1,0 +1,139 @@
+<!doctype html>
+<html itemscope itemtype="http://schema.org/Article">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>{{ pageTitle }}</title>
+
+    <meta name="description" content="{{preview}}" />
+
+    <!-- Schema.org markup for Google+ -->
+    <meta itemprop="name" content="{{ pageTitle }}">
+    <meta itemprop="description" content="{{ preview }}">
+    {{#if image}}
+    <meta itemprop="image" content="/images/{{image}}-2000.jpg">
+    {{/if}}
+
+    <meta property="og:title" content="{{ pageTitle }}" />
+    <meta property="og:description" content="{{ preview }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:author" content="{{ author }}" />
+    <meta property="og:published_time" content="{{ date }}" />
+    <meta property="og:url" content="{{domain}}/{{path}}" />
+    {{#if image}}
+    <meta property="og:image" content="/images/{{image}}-2000.jpg" />
+    {{/if}}
+    <meta property="og:site_name" content="{{site.title}}" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{ pageTitle }}" />
+    <meta name="twitter:description" content="{{ description }}" />
+    {{#if image}}
+    <meta name="twitter:image" content="/images/{{image}}-2000.jpg" />
+    {{/if}}
+
+    <link rel="stylesheet" href="/css/essay.css" />
+
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <label for="toggle-mobile-menu" aria-label="Menu" class="menu-toggle"><img
+                    src="/assets/feather-icons/menu.svg"></label>
+            <input id="toggle-mobile-menu" type="checkbox" />
+            <div id="main-menu">
+                <a href="/">HOME</a><span class="link-divider">//</span>
+                <a href="/photography/">PHOTOGRAPHY</a><span class="link-divider">//</span>
+                <a href="/writing/">WRITING</a><span class="link-divider">//</span>
+                <a href="/contact/">CONTACT</a>
+                <a href="https://www.instagram.com/matthewmiller9904/"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <h1>{{ title }}</h1>
+            <h4 class="subtitle">{{wordCount}} words---{{readingTime}} read</h4>
+
+            {{{ contents }}}
+        </article>
+        <section class="article-info">
+            Published on {{publishDate}} by {{author}}
+        </section>
+
+        <section class="subscribe">
+            <div id="cta">
+                <p>If you you'd like to keep reading, subscribe to my mailing list!</p>
+            </div>
+            <a id="subscribe" href="https://eepurl.com/hvnCan">Subscribe</a>
+        </section>
+    </main>
+
+    <footer>
+        <section>
+            <a>
+                <img src="/assets/feather-icons/key.svg" /> Copyright {{year}} Matthew Miller
+            </a>
+
+            <a href="/privacy.html">
+                <img src="/assets/feather-icons/shield.svg" /> Privacy Policy
+            </a>
+
+            <a href="/attribution.html">
+                <img src="/assets/feather-icons/info.svg" /> Attribution
+            </a>
+
+            <a href="https://www.buymeacoffee.com/mmiller9904">
+                <img src="/assets/feather-icons/coffee.svg" /> Buy me a coffee
+            </a>
+        </section>
+
+        <section>
+            <h1>Navigation</h1>
+            <a href="/">
+                <img src="/assets/feather-icons/home.svg" /> Home
+            </a>
+
+            <a href="/writing/">
+                <img src="/assets/feather-icons/file-text.svg" /> Writing
+            </a>
+
+            <a href="/photography/">
+                <img src="/assets/feather-icons/camera.svg" /> Photography
+            </a>
+
+            <a href="mailto:matt@justmatt.co">
+                <img src="/assets/feather-icons/inbox.svg" /> Contact
+            </a>
+        </section>
+
+        <section>
+            <h1>Follow</h1>
+            <a href="https://www.facebook.com/matthewmillerofficial">
+                <img src="/assets/feather-icons/facebook.svg" /> Facebook
+            </a>
+
+            <a href="https://www.instagram.com/matthewmiller9904/">
+                <img src="/assets/feather-icons/instagram.svg" /> Instagram
+            </a>
+
+            <a href="https://www.linkedin.com/in/matthew-miller-b65916172/">
+                <img src="/assets/feather-icons/linkedin.svg" />Linkedin
+            </a>
+
+            <a href="/rss.xml">
+                <img src="/assets/feather-icons/rss.svg" /> RSS&#160;Feed
+            </a>
+        </section>
+
+    </footer>
+
+    {{> analytics}}
+</body>
+
+</html>

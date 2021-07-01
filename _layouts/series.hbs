@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/css/tufte-css/tufte.min.css" />
+
+    <title>{{title}}</title>
+
+    <!-- https://www.w3.org/Style/Examples/007/leaders.en.html -->
+    <style>
+        ul.leaders {
+            max-width: 40em;
+            padding: 0;
+            overflow-x: hidden;
+            list-style: none
+        }
+
+        ul.leaders li:after {
+            float: left;
+            width: 0;
+            white-space: nowrap;
+            content:
+                ". . . . . . . . . . . . . . . . . . . . "
+                ". . . . . . . . . . . . . . . . . . . . "
+                ". . . . . . . . . . . . . . . . . . . . "
+                ". . . . . . . . . . . . . . . . . . . . "
+        }
+
+        ul.leaders span:first-child {
+            padding-right: 0.33em;
+            background: white
+        }
+
+        ul.leaders span+span {
+            float: right;
+            padding-left: 0.33em;
+            background: white;
+            position: relative;
+            z-index: 1
+        }
+
+        h3 {
+            display: inline;
+            vertical-align: top;
+        }
+
+        a {
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <article>
+            <h1>{{title}}</h1>
+            <ul class="leaders">
+                {{#each pagination.files}}
+                <li>
+                    <span><a href="/{{this.path}}">
+                            <h3>{{this.title}}</h3>
+                        </a></span>
+                    <span>{{this.wordCount}} words, {{this.readingTime}} read</span>
+                </li>
+                {{/each}}
+            </ul>
+        </article>
+    </main>
+</body>
+
+</html>

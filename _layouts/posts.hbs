@@ -25,7 +25,7 @@
                     <div class="article-preview">
                         <h2><a href="/{{this.path}}">{{this.title}}</a></h2>
                         <div class="article-info">{{this.publishDate}}</div>
-                        <div>{{{this.preview}}}</div>
+                        <div>{{{this.preview}}} <a href="/{{this.path}}">Read more</a></div>
                         {{#if this.tags}}<div class="article-info">Tags: {{this.tags}}</div>{{/if}}
                     </div>
                     {{/each}}

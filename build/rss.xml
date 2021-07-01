@@ -1,213 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Just Matt]]></title><description><![CDATA[Just Matt]]></description><link>https://justmatt.co</link><generator>metalsmith-feed</generator><lastBuildDate>Wed, 09 Jun 2021 20:33:22 GMT</lastBuildDate><atom:link href="https://justmatt.co/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[Introduction to Christianity as a Counter-Culture]]></title><description><![CDATA[<!doctype html>
-<html itemscope itemtype="http://schema.org/Article">
-
-<head>
- <meta charset="utf-8" />
- <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
- <title>Introduction to Christianity as a Counter-Culture | Just Matt</title>
-
- <meta name="description" content="During the past few years, our nation has experienced a series of events that have had an indelible effect on our culture. Between the Trump presidency, worsening race relations, and COVID, Americans have been thrown into an intense period of soul-searching. For Christians, this requires a constant re-evaluation of our ideas based on the truths of the Bible. As I personally have been party to many of these cultural events, I have been led to fundamentally reconsider how Christians relate to their culture. Many of my ideas about Church, State, and even the nature of Christianity itself have been challenged..." />
-
- <!-- Schema.org markup for Google+ -->
- <meta itemprop="name" content="Introduction to Christianity as a Counter-Culture | Just Matt">
- <meta itemprop="description" content="During the past few years, our nation has experienced a series of events that have had an indelible effect on our culture. Between the Trump presidency, worsening race relations, and COVID, Americans have been thrown into an intense period of soul-searching. For Christians, this requires a constant re-evaluation of our ideas based on the truths of the Bible. As I personally have been party to many of these cultural events, I have been led to fundamentally reconsider how Christians relate to their culture. Many of my ideas about Church, State, and even the nature of Christianity itself have been challenged...">
- <meta itemprop="image" content="/images/church-2000.jpg">
-
- <meta property="og:title" content="Introduction to Christianity as a Counter-Culture | Just Matt" />
- <meta property="og:description" content="During the past few years, our nation has experienced a series of events that have had an indelible effect on our culture. Between the Trump presidency, worsening race relations, and COVID, Americans have been thrown into an intense period of soul-searching. For Christians, this requires a constant re-evaluation of our ideas based on the truths of the Bible. As I personally have been party to many of these cultural events, I have been led to fundamentally reconsider how Christians relate to their culture. Many of my ideas about Church, State, and even the nature of Christianity itself have been challenged..." />
- <meta property="og:type" content="article" />
- <meta property="og:author" content="Matthew Miller" />
- <meta property="og:published_time" content="Fri Apr 30 2021 20:00:00 GMT-0400 (Eastern Daylight Time)" />
- <meta property="og:url" content="https://justmatt.co/writing/2021-05-01-christianity-as-a-counter-culture.html" />
- <meta property="og:image" content="/images/church-2000.jpg" />
- <meta property="og:site_name" content="Just Matt" />
-
- <meta name="twitter:card" content="summary" />
- <meta name="twitter:title" content="Introduction to Christianity as a Counter-Culture | Just Matt" />
- <meta name="twitter:description" content="" />
- <meta name="twitter:image" content="/images/church-2000.jpg" />
-
- <link rel="stylesheet" href="/css/article.css" />
-
-</head>
-
-<body>
- <div class="container h-100 flex-grow-1">
- <div class="row align-items-center h-100 navheader">
- <!-- Vertical align center: https://stackoverflow.com/a/42252877/3546490 -->
- <div class="col-2">
- <a href="/">
- <img 
-                    src="/assets/logo-black.png" 
-                    class="navheader-logo" />
- </a>
- </div>
- <div class="col-md-10 col-sm-10">
- 
- <nav class="navheader-menu">
- <a class="navheader-menu-item" href="/"><abbr>HOME</abbr></a> //
- <a class="navheader-menu-item" href="/photography/"><abbr>PHOTOGRAPHY</abbr></a> //
- <a class="navheader-menu-item" href="/writing/"><abbr>WRITING</abbr></a> //
- <a class="navheader-menu-item" href="/contact/"><abbr>CONTACT</abbr></a>
- <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i class="fab fa-instagram"></i></a>
- <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
- 
- </nav>
- </div>
- </div> <div class="row">
- <div class="col-md-1 col-lg-2"></div>
- <div class="col-lg-8 col-md-10">
- <main>
- <header>
- <h1 class="title">Introduction to Christianity as a Counter-Culture</h1>
- <div class="article-info">
- Published Saturday May 1st, 2021 by Matthew Miller — 329 words — 2 min read
- </div>
- </header>
- <article>
- <picture class="article-image">
- <source class="article-image-src" type="image/webp" src="/images/church-50.webp" data-srcset="/images/church-50.webp 50w,
-                            /images/church-500.webp 500w,
-                            /images/church-1000.webp 1000w,
-                            /images/church-2000.webp 2000w" />
- <img class="article-image" src="/images/church-50.jpg" data-srcset="/images/church-50.jpg 50w,
-                            /images/church-500.jpg 500w,
-                            /images/church-1000.jpg 1000w,
-                            /images/church-2000.jpg 2000w" />
- </picture>
- <p>During the past few years, our nation has experienced a series of events that have had an indelible effect on our culture. Between the Trump presidency, worsening race relations, and <abbr>COVID</abbr>, Americans have been thrown into an intense period of soul-searching. For Christians, this requires a constant <nobr>re-evaluation</nobr> of our ideas based on the truths of the Bible. As I personally have been party to many of these cultural events, I have been led to fundamentally reconsider how Christians relate to their culture. Many of my ideas about Church, State, and even the nature of Christianity itself have been challenged in the process. </p>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Just Matt]]></title><description><![CDATA[Just Matt]]></description><link>https://justmatt.co</link><generator>metalsmith-feed</generator><lastBuildDate>Thu, 01 Jul 2021 03:32:57 GMT</lastBuildDate><atom:link href="https://justmatt.co/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[Part I.—Identity]]></title><description><![CDATA[<p><span class="newthought">We live in an age</span> of great cultural battles. Ideas like truth, objectivity, and tradition are being questioned in ways that could fundamentally reshape culture as we know it, while at the same time some very cogent arguments are being brought against that culture both historically and in its present state. There are many devoted, orthodox believers who fall at almost every point along the spectrum of this battle, and to the disgrace of the Church, many fight bitterly with each other.</p>
+<p>I believe that this fight reflects a fundamental misunderstanding of the place of the Church in the world which has existed for most of the Church&#39;s history. The attempt to integrate Christian values into an unregenerate world has left sinners and the Church alike with corrupted goals. A return to the biblical doctrine of separation as taught in the New Testament is necessary in order to restore the Church itself.</p>
+<p>In order to untangle this false integration, we need to examine what it truly means to be a follower of Christ, leaving behind our cultural, historical, and existential assumptions. This examination requires an understanding both of how the world defines a person, and how Christ&#39;s definition is fundamentally different. </p>
+<p>Over the course of this series, I will analyze the world&#39;s systems of definition, comparing and contrasting them both to themselves and to the Bible. I will then demonstrate how the integration of these systems into the Church has damaged both its people and its witness, before finally laying out what I believe to be a biblical model in light of these errors.</p>
+<hr>
+<p><span class="newthought">As human beings,</span> it does not take us very long to begin developing ideas about how to live. Our default state is to seek pleasure and avoid pain<label for="sn-1318473" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-1318473" class="margin-toggle"/>
+ <span class="sidenote">Indeed, infants are some of the most committed hedonists I have ever encountered.</span>, but this soon ceases to satisfy us. The root issue with this hedonism is that it turns us into animals, constantly seeking after our own pleasure. Life becomes a cruel master, and we the dog who cringes when he approaches us. In other words, we are reduced to the sum of our <nobr>passions—</nobr>we lack an <em>identity</em>.</p>
+<p>Identity is, humanly speaking, what separates us from animals. The ability to think about ourselves, to be self-aware, is what drives us to ask Why. If we exist, if we Are, then <em>why</em> are we? Any system for deriving identity must then offer both a <em>definition</em> for us to follow, and a <em>telos</em>, or purpose for existing.</p>
+<p>In our contemporary western culture, we are at the intersection of three identity <nobr>systems—</nobr>sincerity, authenticity, and profilicity. Sincerity is the traditional method which offers to define us through our position in an established hierarchy and demands we sincerely adopt our role based on that position. Authenticity was popularized in the individualism of the 20th century and suggests that our definition can be found within ourselves. Our <em>telos</em> therefore is to find our definition through self-realization and then live authentically in relation to our self-definition. Finally, profilicity is a postmodern view that our definition lies in the observation of ourselves by others, and our goal is to accept and reflect this observation.</p>
+<p><span class="newthought">For most of history,</span> culture was based around the traditional identity system, and it is perhaps the easiest to understand. Most of our old stories present people as belonging to a group, with their position defining their roles. Tales of knights and maidens or parents and children emphasize this role-based identity, especially because evil often befalls those who step outside of their role<label for="sn-3707815" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-3707815" class="margin-toggle"/>
+ <span class="sidenote">It is also interesting to note that in modern stories set in olden times, it is the roles themselves that are the obstacles to overcome.</span>. In this system, we are defined by the role we play in a larger system, and our telos is to sincerely adopt this role; those who are insincere in their role or who aspire to something different are seen as improper or being a pretender.</p>
+<p>During the Enlightenment, people began to see themselves more as individuals and identity was <nobr>re-centered</nobr> in institutions. The 18th century saw the rise of national identity, culminating in the American and French revolutions. People began to see themselves not primarily as basket-weavers or farmers, but as English, American, or French. The core of this ideology was still role-based, but it was applied on a much larger scale that brought a greater unity to more people.</p>
+<p>The Enlightenment was a time of great progress for philosophy, legal theory, and the human condition. It saw many improvements in the way nations were governed and in the living conditions of many people in the western world. But unfortunately it also gave rise to a virulent nationalism that polarized many countries and eventually led to the immense slaughter of the world wars. After so much senseless slaughter, many people became disillusioned with a group identity that led to such awful ends.</p>
+<p><span class="newthought">The modern system</span> of identity arose around this time in the analytic psychology of Carl Jung. In Jung&#39;s theory, a person begins life as a simple member of the collective psychology<label for="sn-6651574" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-6651574" class="margin-toggle"/>
+ <span class="sidenote">The collective unconscious of patterns all people share</span>, and must undergo a process of <em>individuation</em> in order to become an individual Self. This is a process of integration, where the conscious person becomes aware of the archetypes<label for="sn-2535532" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-2535532" class="margin-toggle"/>
+ <span class="sidenote">These are underlying patterns of behavior that exist across humanity. For further reading, see the Wikipedia page on <a href="https://en.wikipedia.org/wiki/Jungian_archetypes">Jungian archetypes</a>.</span> within them seeking actualization, and integrating them into into the conscious. This integration transforms the person from a simple member of the collective psychology into an individual Self. Stated simply, <strong>individuation is about finding and accepting what lies inside you in order to become who you really are.</strong></p>
+<p>This is a fundamentally subjective and personal method of deriving identity, in direct opposition to the traditional view of finding your place within an established hierarchy. Furthermore, it suggests that everything about a person must be accepted into their understanding of themselves<label for="sn-2736993" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-2736993" class="margin-toggle"/>
+ <span class="sidenote">Jung believed that repressed archetypes or complexes could lead to neurosis.</span>. To repress a part of yourself is a breakdown on the journey of self-realization. According to this system, our definition lies inside ourselves, and our telos is to become an individual, creating a unique person and then living an authentic life with regards to this self-definition.</p>
+<p>This is a central theme in modern storytelling, especially in recent Disney films. For example, in the 2013 film <em>Frozen</em>, Elsa&#39;s main struggle is not with an external antagonist, but with the harmful effects of the repression of her magical ice powers. Both her initial lack of understanding and then her repression of these powers end up causing harm as she fails to accept and integrate them into her understanding of herself. In the song <em>Let It Go</em>, Elsa refuses to suppress her powers any longer. At the end of the film, Elsa has accepted her powers as a part of her identity, harnessing them as a force for good and bringing Spring back to the kingdom. The message is <nobr>clear—</nobr>in order to understand who you are, you must look inside yourself and accept all that you find. Your path to becoming an individual lies inside of you.<label for="sn-2547865" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-2547865" class="margin-toggle"/>
+ <span class="sidenote">For a much more <nobr>in-depth</nobr> analysis of Frozen through the lens of analytic psychology, see <a href="https://d1wqtxts1xzle7.cloudfront.net/59648115/Let_it_Go__Revising_the_Princess_Story_in_Disneys_Frozen20190610-4428-1u5lwg2.pdf">Let It Go: Revising &#39;The Princess Story&#39; in Disney&#39;s <em>Frozen</em></a>, by Dikaia Gavala. Note that this analysis goes much deeper and draws much larger conclusions than I have chosen to.</span></p>
+<p><span class="newthought">The last method</span> for deriving identity is what Dr. Hans-Georg Moeller refers to as profilicity<label for="sn-4076329" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-4076329" class="margin-toggle"/>
+ <span class="sidenote">For an explanation of all three historical methods of deriving identity, see Dr. Moeller&#39;s video, <a href="https://youtu.be/-QMHOsfjHq0">Identity After Authenticity: Abigail Thorn&#39;s Profile</a></span>. Like the traditional method of identity, profilicity encourages us to base our identity on something external, but unlike the traditional method this external identity is not based on any formal structure. We are in some manner encouraged to curate a profile and then be true to it, and our understanding of ourselves lies in how accurately we can reflect this external profile in ourselves and our actual lives. </p>
+<p>When we view content from others on social media, we don&#39;t simply see it for what it is, but instead through the lens of how other people have reacted to it. The number of Likes, the discussion in the comments, and perhaps even its position in your feed all influence the way you see the content. Dr. Moeller describes this as a form of second-order observation<label for="sn-3061995" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-3061995" class="margin-toggle"/>
+ <span class="sidenote">For more on Luhmann&#39;s orders of observation, see <a href="https://link.springer.com/chapter/10.1057%2F9780230239296_2">Chapter 1</a> of <em>Power at Play,</em> by Niels Åkerstrøm Andersen.</span>, where instead of observing a thing itself, we instead are primarily observing how that thing is observed by others.</p>
+<p>With this understanding of how others observe what gets posted, we curate our own behavior with their observation in mind. This observation is crucially not the perspective of any specific person, but rather of the abstract group of Others that we see only through the aggregate reactions present when we engage with social media. This abstract Other is referred to as <em>the general peer,</em> and we come to think about ourselves through the eyes of this general peer rather than through our own or some specific other person&#39;s eyes. In order to validate the curated profile we have created for ourselves, we must seek and receive approval from the general peer. Therefore, in this system we are shaped and defined by how the general peer sees us, and our telos is to project a persona that is approved and then live up to it.</p>
+<hr>
+<p><span class="newthought">Each of these systems</span> provides a different method for deriving identity, but they are all flawed. They fail precisely in the same way the Law could not bring about our <nobr>salvation—</nobr>we are forced to justify ourselves. In each system, there are requirements that we must follow in order to embrace that identity which are judged ultimately by other people. We spend our lives attempting to live up to the expectations each form of identity requires, and we inevitably fall short. We cannot be sincere enough, we cannot be authentic enough, we cannot live up to the picture-perfect profile we have created—<em>we</em> are not enough.</p>
+<p>This is what makes the biblical model of identity so radically different. If each of these established forms of identity require us to justify ourselves to others (a horizontal relationship), the biblical model states that our identity becomes permanently established and justified when we are saved<label for="sn-802269" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-802269" class="margin-toggle"/>
+ <span class="sidenote"><a href="https://www.biblegateway.com/passage/?search=Romans 5:1; John 15:16&version=ESV">Romans 5:1; John 15:16 <abbr>ESV</abbr></a></span> (a vertical relationship)<!-- z.1b -->. Our identity in Christ is not based on anything we&#39;ve done, nor on some standard that we must strive to attain, but is part of our new nature<label for="sn-9009116" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-9009116" class="margin-toggle"/>
+ <span class="sidenote"><a href="https://www.biblegateway.com/passage/?search=Romans 6:6-8; II Corinthians 5:17&version=ESV">Romans 6:<nobr>6-8</nobr>; II Corinthians 5:17 <abbr>ESV</abbr></a></span><!-- z.1a2a -->.</p>
+<p>The biblical model recognizes only two <nobr>identities—</nobr>those who are of the world, and those who are in Christ<label for="sn-6735574" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-6735574" class="margin-toggle"/>
+ <span class="sidenote"><a href="https://www.biblegateway.com/passage/?search=Romans 6:17-18&version=ESV">Romans 6:<nobr>17-18</nobr> <abbr>ESV</abbr></a></span><!-- z.1a2 -->. The Bible describes belonging to either of these groups as a father/son or master/slave relationship between the members of the group and its leader<label for="sn-4908613" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-4908613" class="margin-toggle"/>
+ <span class="sidenote">This can be understood in a very general way through the Hegelian concept of universals and particulars<!-- z.4 -->, although Kierkegaard devotes the entirety of <em>Fear and Trembling</em> to explaining why this cannot be taken too far.</span>. Those who are members of the world are &quot;the children of the devil&quot;, while those who are in Christ are &quot;the children of God&quot;<label for="sn-336980" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-336980" class="margin-toggle"/>
+ <span class="sidenote"><a href="https://www.biblegateway.com/passage/?search=I John 3:9-10&version=ESV">I John 3:<nobr>9-10</nobr> <abbr>ESV</abbr></a></span>.</p>
+<p>As children of God, we are then placed in a relation to God through <nobr>Christ—</nobr>He becomes our definition. Importantly, a man can have only one definition<label for="sn-4332278" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-4332278" class="margin-toggle"/>
+ <span class="sidenote"><a href="https://www.biblegateway.com/passage/?search=Matthew 6:24&version=ESV">Matthew 6:24 <abbr>ESV</abbr></a></span><!-- z.1a2 -->—we cannot serve two masters. Through our definition as sons of God, we are tasked with emulating Him. The telos of this identity, then, is sanctification, the process of progressively becoming more like Christ. This emulation includes both the reflection of His passive attributes as well as active obedience to His commands<label for="sn-9997852" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-9997852" class="margin-toggle"/>
+ <span class="sidenote"><a href="https://www.biblegateway.com/passage/?search=II Corinthians 5:14-15; John 14:15, 21; I Peter 1:14-19&version=ESV">II Corinthians 5:<nobr>14-15</nobr>; John 14:15, 21; I Peter 1:<nobr>14-19</nobr> <abbr>ESV</abbr></a></span><!-- z.4b1 -->.</p>
+<p>This radical <nobr>idea—</nobr>that we are justified in our identity with Christ and that we&#39;re not required to maintain this identity by our own <nobr>efforts—</nobr>is utterly unlike all of the world&#39;s systems because it brings <em>peace</em><label for="sn-6987723" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-6987723" class="margin-toggle"/>
+ <span class="sidenote"><a href="https://www.biblegateway.com/passage/?search=Romans 5:1&version=ESV">Romans 5:1 <abbr>ESV</abbr></a></span><!-- z.3a -->. We are secure in this identity and freed from attempting to define ourselves through what we ourselves or others think about us. God has given us many promises, and we inherit all of them by being defined through Him<label for="sn-5511921" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-5511921" class="margin-toggle"/>
+ <span class="sidenote"><a href="https://www.biblegateway.com/passage/?search=Romans 9&version=ESV">Romans 9 <abbr>ESV</abbr></a></span><!-- z.6 -->. Any attempt on the part of the Christian to derive their identity from the world&#39;s systems is a rejection of God as our Father<label for="sn-4021532" class="margin-toggle sidenote-number"></label>
+ <input type="checkbox" id="sn-4021532" class="margin-toggle"/>
+ <span class="sidenote"><a href="https://www.biblegateway.com/passage/?search=Ephesians 5:8-11&version=ESV">Ephesians 5:<nobr>8-11</nobr> <abbr>ESV</abbr></a></span><!-- z.1c -->, and can only lead to corruption.</p>
+]]></description><link>https://justmatt.co/writing/christianity-as-counterculture/part-i.html</link><guid isPermaLink="true">https://justmatt.co/writing/christianity-as-counterculture/part-i.html</guid><dc:creator><![CDATA[Matthew Miller]]></dc:creator><pubDate>Sat, 26 Jun 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[Christianity as a Counter-Culture]]></title><description><![CDATA[<p>During the past few years, our nation has experienced a series of events that have had an indelible effect on our culture. Between the Trump presidency, worsening race relations, and <abbr>COVID</abbr>, Americans have been thrown into an intense period of soul-searching. For Christians, this requires a constant <nobr>re-evaluation</nobr> of our ideas based on the truths of the Bible. As I personally have been party to many of these cultural events, I have been led to fundamentally reconsider how Christians relate to their culture. Many of my ideas about Church, State, and even the nature of Christianity itself have been challenged in the process. </p>
 <p>The more I’ve studied and discussed, the more I’ve realized that many of these ideas desperately need to be talked about. In today’s battle over worldview and culture, Christians are presented with strong narratives that they are encouraged to assume without challenge. These narratives, while normally offered with the best of intentions, end up leaving Christians unfulfilled because they offer a version of Christianity that would be almost unrecognizable to the authors of the New Testament and hamper a true understanding of both the Gospel and the Great Commission.</p>
 <p>Over the next several months, I will be writing a series of articles that explore the idea of Christianity as a counter-<nobr>culture—</nobr>a Christianity that was intended to oppose worldly culture and must be fundamentally perverted in order to provide the basis for a dominant cultural system. This Christianity is therefore not based on any national identity, political structure, or economic system. It is simple, idealistic, and orthodox.</p>
 <p>In this series of articles, I will strive to show how this understanding of Christianity is historically accurate, biblically sound, and philosophically consistent. I will be drawing from a wide array of sources, and I hope to receive feedback on my ideas so I may continue to develop them. If you would like to subscribe to email updates, you can <a href="http://eepurl.com/hvnCan">sign up here</a>. You may also <a href="https://www.facebook.com/matthewmillerofficial">follow my Facebook page</a>.</p>
-
- </article>
- <div class="article-info footer-info">
- tags: christianity, culture<br>
- 
- </div>
- </main>
- </div>
- <div class="col-md-1 col-lg-2"></div>
- </div>
- </div>
- <!--<footer>
-        <div class="footer">
-            &#169; 2021 Matthew Miller.
-        </div>
-    </footer>0-->
- 
- <footer>
- <div class="container footer-main">
- <div class="row">
- <div class="col-sm-1"></div>
- <div class="col-sm-5">
- <a href="/privacy.html">Privacy</a> — I don't watch you <br>
- <a href="/attribution.html">Attribution</a> <br>
- &#169; 2021 Matthew Miller. Unless otherwise noted, all content is licensed under the <a
-                        href="https://creativecommons.org/licenses/by-sa/4.0/?ref=ccchooser">Creative Commons <nobr>BY-SA</nobr> 4.0</a>
- <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> <i
-                        class="fab fa-creative-commons-sa"></i>
- </div>
- <div class="col-sm-5 footer-links">
- <a href="/">Home</a> •
- <a href="/photography/">Photography</a> •
- <a href="/writing/">Writing</a> •
- <a href="/contact/">Contact</a>
- <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i
-                            class="fab fa-instagram"></i></a>
- <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
- </div>
- <div class="col-sm-1"></div>
- </div>
- </div>
- </footer>
- 
- <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
- <script src="/js/lazyload.js"></script>
-
- <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1005c62af3fe4147beb401d634dd80ac"}'></script><!-- End Cloudflare Web Analytics --></body>
-
-</html>]]></description><link>https://justmatt.co/writing/2021-05-01-christianity-as-a-counter-culture.html</link><guid isPermaLink="true">https://justmatt.co/writing/2021-05-01-christianity-as-a-counter-culture.html</guid><dc:creator><![CDATA[Matthew Miller]]></dc:creator><pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[Protecting Your Privacy on Instagram]]></title><description><![CDATA[<!doctype html>
-<html itemscope itemtype="http://schema.org/Article">
-
-<head>
- <meta charset="utf-8" />
- <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
- <title>Protecting Your Privacy on Instagram | Just Matt</title>
-
- <meta name="description" content="Over the past week, I&amp;#39;ve noticed multiple people on Instagram post about an update to their terms of service that allows Instagram massive new access to your data. Several of my friends also sent me the update to ask my opinion. In this article, I will explain what Instagram is tracking about you and how you can limit their ability to access your information. Table of Contents  Data Policy Privacy Implications Protecting Yourself The Next Level In Review  Data Policy I started by pulling up Instagram&amp;#39;s Data Policy, which..." />
-
- <!-- Schema.org markup for Google+ -->
- <meta itemprop="name" content="Protecting Your Privacy on Instagram | Just Matt">
- <meta itemprop="description" content="Over the past week, I&amp;#39;ve noticed multiple people on Instagram post about an update to their terms of service that allows Instagram massive new access to your data. Several of my friends also sent me the update to ask my opinion. In this article, I will explain what Instagram is tracking about you and how you can limit their ability to access your information. Table of Contents  Data Policy Privacy Implications Protecting Yourself The Next Level In Review  Data Policy I started by pulling up Instagram&amp;#39;s Data Policy, which...">
- <meta itemprop="image" content="/images/instagram-2000.jpg">
-
- <meta property="og:title" content="Protecting Your Privacy on Instagram | Just Matt" />
- <meta property="og:description" content="Over the past week, I&amp;#39;ve noticed multiple people on Instagram post about an update to their terms of service that allows Instagram massive new access to your data. Several of my friends also sent me the update to ask my opinion. In this article, I will explain what Instagram is tracking about you and how you can limit their ability to access your information. Table of Contents  Data Policy Privacy Implications Protecting Yourself The Next Level In Review  Data Policy I started by pulling up Instagram&amp;#39;s Data Policy, which..." />
- <meta property="og:type" content="article" />
- <meta property="og:author" content="Matthew Miller" />
- <meta property="og:published_time" content="Sat Dec 19 2020 19:00:00 GMT-0500 (Eastern Standard Time)" />
- <meta property="og:url" content="https://justmatt.co/writing/2020-12-20-instagram-privacy.html" />
- <meta property="og:image" content="/images/instagram-2000.jpg" />
- <meta property="og:site_name" content="Just Matt" />
-
- <meta name="twitter:card" content="summary" />
- <meta name="twitter:title" content="Protecting Your Privacy on Instagram | Just Matt" />
- <meta name="twitter:description" content="" />
- <meta name="twitter:image" content="/images/instagram-2000.jpg" />
-
- <link rel="stylesheet" href="/css/article.css" />
-
-</head>
-
-<body>
- <div class="container h-100 flex-grow-1">
- <div class="row align-items-center h-100 navheader">
- <!-- Vertical align center: https://stackoverflow.com/a/42252877/3546490 -->
- <div class="col-2">
- <a href="/">
- <img 
-                    src="/assets/logo-black.png" 
-                    class="navheader-logo" />
- </a>
- </div>
- <div class="col-md-10 col-sm-10">
- 
- <nav class="navheader-menu">
- <a class="navheader-menu-item" href="/"><abbr>HOME</abbr></a> //
- <a class="navheader-menu-item" href="/photography/"><abbr>PHOTOGRAPHY</abbr></a> //
- <a class="navheader-menu-item" href="/writing/"><abbr>WRITING</abbr></a> //
- <a class="navheader-menu-item" href="/contact/"><abbr>CONTACT</abbr></a>
- <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i class="fab fa-instagram"></i></a>
- <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
- 
- </nav>
- </div>
- </div> <div class="row">
- <div class="col-md-1 col-lg-2"></div>
- <div class="col-lg-8 col-md-10">
- <main>
- <header>
- <h1 class="title">Protecting Your Privacy on Instagram</h1>
- <div class="article-info">
- Published Sunday December 20th, 2020 by Matthew Miller — 1939 words — 7 min read
- </div>
- </header>
- <article>
- <picture class="article-image">
- <source class="article-image-src" type="image/webp" src="/images/instagram-50.webp" data-srcset="/images/instagram-50.webp 50w,
-                            /images/instagram-500.webp 500w,
-                            /images/instagram-1000.webp 1000w,
-                            /images/instagram-2000.webp 2000w" />
- <img class="article-image" src="/images/instagram-50.jpg" data-srcset="/images/instagram-50.jpg 50w,
-                            /images/instagram-500.jpg 500w,
-                            /images/instagram-1000.jpg 1000w,
-                            /images/instagram-2000.jpg 2000w" />
- </picture>
- <p>Over the past week, I&#39;ve noticed multiple people on Instagram post about an update to their terms of service that allows Instagram massive new access to your data. Several of my friends also sent me the update to ask my opinion. In this article, I will explain what Instagram is tracking about you and how you can limit their ability to access your information.</p>
+]]></description><link>https://justmatt.co/writing/2021-05-01-christianity-as-a-counter-culture.html</link><guid isPermaLink="true">https://justmatt.co/writing/2021-05-01-christianity-as-a-counter-culture.html</guid><dc:creator><![CDATA[Matthew Miller]]></dc:creator><pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[Protecting Your Privacy on Instagram]]></title><description><![CDATA[<p>Over the past week, I&#39;ve noticed multiple people on Instagram post about an update to their terms of service that allows Instagram massive new access to your data. Several of my friends also sent me the update to ask my opinion. In this article, I will explain what Instagram is tracking about you and how you can limit their ability to access your information.</p>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
 <li><a href="#data-policy">Data Policy</a></li>
@@ -282,133 +137,7 @@
 <h2 id="-span-id-in-review-in-review-span-"><span id="in-review">In Review</span></h2>
 <p>Instagram collects a massive amount of data on its users, both on and off its platform. A few simple steps will greatly help you improve your privacy with Instagram. Limiting the app&#39;s permissions on your phone, using the Instagram web app, and installing an ad blocker will all help to limit the amount of information Instagram is able to track about you.</p>
 <p>If you are interested in further increasing your privacy, DuckDuckGo has published a series of articles on protecting your privacy on all your devices. You can <a href="https://spreadprivacy.com/tag/device-privacy-tips/">read the articles here</a>.</p>
-
- </article>
- <div class="article-info footer-info">
- tags: privacy, instagram, facebook<br>
- 
- </div>
- </main>
- </div>
- <div class="col-md-1 col-lg-2"></div>
- </div>
- </div>
- <!--<footer>
-        <div class="footer">
-            &#169; 2021 Matthew Miller.
-        </div>
-    </footer>0-->
- 
- <footer>
- <div class="container footer-main">
- <div class="row">
- <div class="col-sm-1"></div>
- <div class="col-sm-5">
- <a href="/privacy.html">Privacy</a> — I don't watch you <br>
- <a href="/attribution.html">Attribution</a> <br>
- &#169; 2021 Matthew Miller. Unless otherwise noted, all content is licensed under the <a
-                        href="https://creativecommons.org/licenses/by-sa/4.0/?ref=ccchooser">Creative Commons <nobr>BY-SA</nobr> 4.0</a>
- <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> <i
-                        class="fab fa-creative-commons-sa"></i>
- </div>
- <div class="col-sm-5 footer-links">
- <a href="/">Home</a> •
- <a href="/photography/">Photography</a> •
- <a href="/writing/">Writing</a> •
- <a href="/contact/">Contact</a>
- <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i
-                            class="fab fa-instagram"></i></a>
- <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
- </div>
- <div class="col-sm-1"></div>
- </div>
- </div>
- </footer>
- 
- <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
- <script src="/js/lazyload.js"></script>
-
- <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1005c62af3fe4147beb401d634dd80ac"}'></script><!-- End Cloudflare Web Analytics --></body>
-
-</html>]]></description><link>https://justmatt.co/writing/2020-12-20-instagram-privacy.html</link><guid isPermaLink="true">https://justmatt.co/writing/2020-12-20-instagram-privacy.html</guid><dc:creator><![CDATA[Matthew Miller]]></dc:creator><pubDate>Sun, 20 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[How Shall I Then Vote?]]></title><description><![CDATA[<!doctype html>
-<html itemscope itemtype="http://schema.org/Article">
-
-<head>
- <meta charset="utf-8" />
- <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
- <title>How Shall I Then Vote? | Just Matt</title>
-
- <meta name="description" content="In a little more than a week, America will make what we&amp;#39;re being told is the most important national decision we&amp;#39;ve ever faced. The choice between Joe Biden and Donald Trump has thrown many Americans, especially Christians, into confusion. While many Christians favor Trump&amp;#39;s economic policies over those of Biden, Trump&amp;#39;s unabashedly arrogant, scorched-earth demeanor as well as both candidates&amp;#39; history of sexual transgression and disregard for Christian values give voters pause. When presented with such a monumental choice and no good options, how should Christians respond? These are the questions I&amp;#39;ve been asking myself for the last few months..." />
-
- <!-- Schema.org markup for Google+ -->
- <meta itemprop="name" content="How Shall I Then Vote? | Just Matt">
- <meta itemprop="description" content="In a little more than a week, America will make what we&amp;#39;re being told is the most important national decision we&amp;#39;ve ever faced. The choice between Joe Biden and Donald Trump has thrown many Americans, especially Christians, into confusion. While many Christians favor Trump&amp;#39;s economic policies over those of Biden, Trump&amp;#39;s unabashedly arrogant, scorched-earth demeanor as well as both candidates&amp;#39; history of sexual transgression and disregard for Christian values give voters pause. When presented with such a monumental choice and no good options, how should Christians respond? These are the questions I&amp;#39;ve been asking myself for the last few months...">
- <meta itemprop="image" content="/images/polls-2000.jpg">
-
- <meta property="og:title" content="How Shall I Then Vote? | Just Matt" />
- <meta property="og:description" content="In a little more than a week, America will make what we&amp;#39;re being told is the most important national decision we&amp;#39;ve ever faced. The choice between Joe Biden and Donald Trump has thrown many Americans, especially Christians, into confusion. While many Christians favor Trump&amp;#39;s economic policies over those of Biden, Trump&amp;#39;s unabashedly arrogant, scorched-earth demeanor as well as both candidates&amp;#39; history of sexual transgression and disregard for Christian values give voters pause. When presented with such a monumental choice and no good options, how should Christians respond? These are the questions I&amp;#39;ve been asking myself for the last few months..." />
- <meta property="og:type" content="article" />
- <meta property="og:author" content="Matthew Miller" />
- <meta property="og:published_time" content="Sat Oct 24 2020 20:00:00 GMT-0400 (Eastern Daylight Time)" />
- <meta property="og:url" content="https://justmatt.co/writing/2020-10-25-how-shall-I-then-vote.html" />
- <meta property="og:image" content="/images/polls-2000.jpg" />
- <meta property="og:site_name" content="Just Matt" />
-
- <meta name="twitter:card" content="summary" />
- <meta name="twitter:title" content="How Shall I Then Vote? | Just Matt" />
- <meta name="twitter:description" content="" />
- <meta name="twitter:image" content="/images/polls-2000.jpg" />
-
- <link rel="stylesheet" href="/css/article.css" />
-
-</head>
-
-<body>
- <div class="container h-100 flex-grow-1">
- <div class="row align-items-center h-100 navheader">
- <!-- Vertical align center: https://stackoverflow.com/a/42252877/3546490 -->
- <div class="col-2">
- <a href="/">
- <img 
-                    src="/assets/logo-black.png" 
-                    class="navheader-logo" />
- </a>
- </div>
- <div class="col-md-10 col-sm-10">
- 
- <nav class="navheader-menu">
- <a class="navheader-menu-item" href="/"><abbr>HOME</abbr></a> //
- <a class="navheader-menu-item" href="/photography/"><abbr>PHOTOGRAPHY</abbr></a> //
- <a class="navheader-menu-item" href="/writing/"><abbr>WRITING</abbr></a> //
- <a class="navheader-menu-item" href="/contact/"><abbr>CONTACT</abbr></a>
- <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i class="fab fa-instagram"></i></a>
- <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
- 
- </nav>
- </div>
- </div> <div class="row">
- <div class="col-md-1 col-lg-2"></div>
- <div class="col-lg-8 col-md-10">
- <main>
- <header>
- <h1 class="title">How Shall I Then Vote?</h1>
- <div class="article-info">
- Published Sunday October 25th, 2020 by Matthew Miller — 1775 words — 6 min read
- </div>
- </header>
- <article>
- <picture class="article-image">
- <source class="article-image-src" type="image/webp" src="/images/polls-50.webp" data-srcset="/images/polls-50.webp 50w,
-                            /images/polls-500.webp 500w,
-                            /images/polls-1000.webp 1000w,
-                            /images/polls-2000.webp 2000w" />
- <img class="article-image" src="/images/polls-50.jpg" data-srcset="/images/polls-50.jpg 50w,
-                            /images/polls-500.jpg 500w,
-                            /images/polls-1000.jpg 1000w,
-                            /images/polls-2000.jpg 2000w" />
- </picture>
- <p>In a little more than a week, America will make what we&#39;re being told is the most important national decision we&#39;ve ever faced. The choice between Joe Biden and Donald Trump has thrown many Americans, especially Christians, into confusion. While many Christians favor Trump&#39;s economic policies over those of Biden, Trump&#39;s unabashedly arrogant, scorched-earth demeanor as well as both candidates&#39; history of sexual transgression and disregard for Christian values give voters pause. When presented with such a monumental choice and no good options, how should Christians respond?</p>
+]]></description><link>https://justmatt.co/writing/2020-12-20-instagram-privacy.html</link><guid isPermaLink="true">https://justmatt.co/writing/2020-12-20-instagram-privacy.html</guid><dc:creator><![CDATA[Matthew Miller]]></dc:creator><pubDate>Sun, 20 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[How Shall I Then Vote?]]></title><description><![CDATA[<p>In a little more than a week, America will make what we&#39;re being told is the most important national decision we&#39;ve ever faced. The choice between Joe Biden and Donald Trump has thrown many Americans, especially Christians, into confusion. While many Christians favor Trump&#39;s economic policies over those of Biden, Trump&#39;s unabashedly arrogant, scorched-earth demeanor as well as both candidates&#39; history of sexual transgression and disregard for Christian values give voters pause. When presented with such a monumental choice and no good options, how should Christians respond?</p>
 <p>These are the questions I&#39;ve been asking myself for the last few months as the <abbr>COVID</abbr> pandemic has dragged on and the election drawn closer. It&#39;s been an eventful summer; with the lockdowns, the George Floyd demonstrations and riots, and the political antics leading up to November, there has been a lot that has caused me to consider how I believe a Christian should respond to national events. As I&#39;ve watched believers tear into each other and non-believers alike over political ideology and personal opinion, I&#39;ve struggled long and hard to figure out how I must act so that my primary calling as a Christian is not affected. After much study and contemplation, I want to offer my opinion to those who are struggling with the same questions.</p>
 <h3 id="holding-fast-to-what-is-good">Holding Fast to What is Good</h3>
 <p>The first passage that came to mind when studying this topic was Romans 12. In this chapter, Paul exhorts the Christians of Rome to present their bodies as a living sacrifice to God, transforming their minds to follow the will of God (v. 2, 3). The rest of the chapter is spent enumerating what a Christian who is living according to this exhortation will look like. I was specifically drawn to verse 9: &quot;Let love be genuine. Abhor what is evil; hold fast to what is good.&quot;</p>
@@ -444,133 +173,7 @@
 <hr>
 <p>I also want to reiterate that no matter my personal opinions, my primary call from God is to spread the Gospel and to love people, and therefore I cannot judge others for holding different views. I enjoy discussion and I would encourage anyone to contact me if they would like to talk about the things I&#39;ve written. But by the grace of God I will continue to love those God has placed in my life.</p>
 <p>(All Bible quotations taken from the English Standard Version)</p>
-
- </article>
- <div class="article-info footer-info">
- tags: politics, election<br>
- 
- </div>
- </main>
- </div>
- <div class="col-md-1 col-lg-2"></div>
- </div>
- </div>
- <!--<footer>
-        <div class="footer">
-            &#169; 2021 Matthew Miller.
-        </div>
-    </footer>0-->
- 
- <footer>
- <div class="container footer-main">
- <div class="row">
- <div class="col-sm-1"></div>
- <div class="col-sm-5">
- <a href="/privacy.html">Privacy</a> — I don't watch you <br>
- <a href="/attribution.html">Attribution</a> <br>
- &#169; 2021 Matthew Miller. Unless otherwise noted, all content is licensed under the <a
-                        href="https://creativecommons.org/licenses/by-sa/4.0/?ref=ccchooser">Creative Commons <nobr>BY-SA</nobr> 4.0</a>
- <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> <i
-                        class="fab fa-creative-commons-sa"></i>
- </div>
- <div class="col-sm-5 footer-links">
- <a href="/">Home</a> •
- <a href="/photography/">Photography</a> •
- <a href="/writing/">Writing</a> •
- <a href="/contact/">Contact</a>
- <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i
-                            class="fab fa-instagram"></i></a>
- <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
- </div>
- <div class="col-sm-1"></div>
- </div>
- </div>
- </footer>
- 
- <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
- <script src="/js/lazyload.js"></script>
-
- <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1005c62af3fe4147beb401d634dd80ac"}'></script><!-- End Cloudflare Web Analytics --></body>
-
-</html>]]></description><link>https://justmatt.co/writing/2020-10-25-how-shall-I-then-vote.html</link><guid isPermaLink="true">https://justmatt.co/writing/2020-10-25-how-shall-I-then-vote.html</guid><dc:creator><![CDATA[Matthew Miller]]></dc:creator><pubDate>Sun, 25 Oct 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[An Empathetic Response to George Floyd]]></title><description><![CDATA[<!doctype html>
-<html itemscope itemtype="http://schema.org/Article">
-
-<head>
- <meta charset="utf-8" />
- <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
- <title>An Empathetic Response to George Floyd | Just Matt</title>
-
- <meta name="description" content="In recent days, America has been overrun by news of the killing of George Floyd and the subsequent response by governments, police officers, and American communities. Anybody who has watched these events unfold has to feel pain in their hearts as cities, communities, and families are torn apart by the destruction and intense language used to discuss these issues. It is an awful site to see a land you love torched as the nation shreds the unity we worked hard to feel during the COVID lockdowns. Especially after protests turned into violent riots, two very distinct viewpoints have emerged, unfortunately..." />
-
- <!-- Schema.org markup for Google+ -->
- <meta itemprop="name" content="An Empathetic Response to George Floyd | Just Matt">
- <meta itemprop="description" content="In recent days, America has been overrun by news of the killing of George Floyd and the subsequent response by governments, police officers, and American communities. Anybody who has watched these events unfold has to feel pain in their hearts as cities, communities, and families are torn apart by the destruction and intense language used to discuss these issues. It is an awful site to see a land you love torched as the nation shreds the unity we worked hard to feel during the COVID lockdowns. Especially after protests turned into violent riots, two very distinct viewpoints have emerged, unfortunately...">
- <meta itemprop="image" content="/images/riot-2000.jpg">
-
- <meta property="og:title" content="An Empathetic Response to George Floyd | Just Matt" />
- <meta property="og:description" content="In recent days, America has been overrun by news of the killing of George Floyd and the subsequent response by governments, police officers, and American communities. Anybody who has watched these events unfold has to feel pain in their hearts as cities, communities, and families are torn apart by the destruction and intense language used to discuss these issues. It is an awful site to see a land you love torched as the nation shreds the unity we worked hard to feel during the COVID lockdowns. Especially after protests turned into violent riots, two very distinct viewpoints have emerged, unfortunately..." />
- <meta property="og:type" content="article" />
- <meta property="og:author" content="Matthew Miller" />
- <meta property="og:published_time" content="Sun May 31 2020 20:00:00 GMT-0400 (Eastern Daylight Time)" />
- <meta property="og:url" content="https://justmatt.co/writing/2020-06-01-an-empathetic-response.html" />
- <meta property="og:image" content="/images/riot-2000.jpg" />
- <meta property="og:site_name" content="Just Matt" />
-
- <meta name="twitter:card" content="summary" />
- <meta name="twitter:title" content="An Empathetic Response to George Floyd | Just Matt" />
- <meta name="twitter:description" content="" />
- <meta name="twitter:image" content="/images/riot-2000.jpg" />
-
- <link rel="stylesheet" href="/css/article.css" />
-
-</head>
-
-<body>
- <div class="container h-100 flex-grow-1">
- <div class="row align-items-center h-100 navheader">
- <!-- Vertical align center: https://stackoverflow.com/a/42252877/3546490 -->
- <div class="col-2">
- <a href="/">
- <img 
-                    src="/assets/logo-black.png" 
-                    class="navheader-logo" />
- </a>
- </div>
- <div class="col-md-10 col-sm-10">
- 
- <nav class="navheader-menu">
- <a class="navheader-menu-item" href="/"><abbr>HOME</abbr></a> //
- <a class="navheader-menu-item" href="/photography/"><abbr>PHOTOGRAPHY</abbr></a> //
- <a class="navheader-menu-item" href="/writing/"><abbr>WRITING</abbr></a> //
- <a class="navheader-menu-item" href="/contact/"><abbr>CONTACT</abbr></a>
- <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i class="fab fa-instagram"></i></a>
- <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
- 
- </nav>
- </div>
- </div> <div class="row">
- <div class="col-md-1 col-lg-2"></div>
- <div class="col-lg-8 col-md-10">
- <main>
- <header>
- <h1 class="title">An Empathetic Response to George Floyd</h1>
- <div class="article-info">
- Published Monday June 1st, 2020 by Matthew Miller — 2171 words — 8 min read
- </div>
- </header>
- <article>
- <picture class="article-image">
- <source class="article-image-src" type="image/webp" src="/images/riot-50.webp" data-srcset="/images/riot-50.webp 50w,
-                            /images/riot-500.webp 500w,
-                            /images/riot-1000.webp 1000w,
-                            /images/riot-2000.webp 2000w" />
- <img class="article-image" src="/images/riot-50.jpg" data-srcset="/images/riot-50.jpg 50w,
-                            /images/riot-500.jpg 500w,
-                            /images/riot-1000.jpg 1000w,
-                            /images/riot-2000.jpg 2000w" />
- </picture>
- <p>In recent days, America has been overrun by news of the killing of George Floyd and the subsequent response by governments, police officers, and American communities. Anybody who has watched these events unfold has to feel pain in their hearts as cities, communities, and families are torn apart by the destruction and intense language used to discuss these issues. It is an awful site to see a land you love torched as the nation shreds the unity we worked hard to feel during the <abbr>COVID</abbr> lockdowns.</p>
+]]></description><link>https://justmatt.co/writing/2020-10-25-how-shall-I-then-vote.html</link><guid isPermaLink="true">https://justmatt.co/writing/2020-10-25-how-shall-I-then-vote.html</guid><dc:creator><![CDATA[Matthew Miller]]></dc:creator><pubDate>Sun, 25 Oct 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[An Empathetic Response to George Floyd]]></title><description><![CDATA[<p>In recent days, America has been overrun by news of the killing of George Floyd and the subsequent response by governments, police officers, and American communities. Anybody who has watched these events unfold has to feel pain in their hearts as cities, communities, and families are torn apart by the destruction and intense language used to discuss these issues. It is an awful site to see a land you love torched as the nation shreds the unity we worked hard to feel during the <abbr>COVID</abbr> lockdowns.</p>
 <p>Especially after protests turned into violent riots, two very distinct viewpoints have emerged, unfortunately once again along party lines. While no major voice supports the killing of Floyd, one side has overwhelmingly focused their attention on the motivations of the protestors and rioters, supporting the riots as righteous action against an overwhelmingly racist society. The other side looks at the same events and sees a self-serving group of criminals taking advantage of a national tragedy for their own personal gain. Or at least, that&#39;s what reading national news from either perspective would lead you to believe.</p>
 <p>As with most issues, both viewpoints are considerably more nuanced and, if you look for opinions other than those pushed by inflammatory Twitter shock-jocks and the news media, more balanced. Most people on both sides of the issue see the violence as objectively bad <a href="https://nypost.com/2020/05/29/righteous-rage-over-george-floyds-death-takes-senseless-turn/">[New York Post]</a> <a href="https://www.cnn.com/2020/05/31/opinions/carnage-trump-right-and-wrong-answers-avlon/index.html">[<abbr>CNN</abbr>]</a>. There are those on both sides who see rioting as fundamentally counterproductive <a href="https://www.nytimes.com/2020/05/30/opinion/sunday/riots-george-floyd.html">[New York Times]</a> <a href="https://www.nationalreview.com/2020/05/anger-is-justified-riots-never-are/">[National Review]</a>. </p>
 <p>I think the key to making actual forward progress on this issue is first and foremost attempting to cut through the divisive rhetoric and trying to understand others&#39; perspectives, especially those of the African-American community. Once we begin to see where the issue truly lies, we can begin to reach out and start to heal. So where then does the difference in perspective really divide us, and what steps can we personally take to help each other and our nation?</p>
@@ -619,169 +222,7 @@
 <p>For those of us who claim to be Christians, this is even more central. If we truly believe that Christ is the only true answer to the problems of the world, then we need to be out proactively demonstrating His love towards the people who need it most. We cannot stop by rattling off statements about how God is the only answer to today&#39;s problems and then moving on with our lives. We need to be out calling, writing, and talking to those who care about or are affected by these issues so that we can understand them better ourselves as well as demonstrating to them that we love them enough to listen and put effort into understanding them.</p>
 <p>Community leaders have an even bigger potential because oftentimes they are the voices that give shape to others&#39; views of their community&#39;s attitudes. If you are a community leader, consider that you might be the only voice a member of a different community or race hears on subjects such as these. We all need to be projecting love and care <em>actively</em>, letting it be known that you are open and willing to learn and to listen. Make yourself a safe person to talk to, demonstrating that you want to look beyond your perspective and truly understand how they feel and what they see.</p>
 <p>We have the ability to make a serious difference. Every single one of us has the ability to be a vessel of peace to our neighbors by taking the time to learn and try to understand where they&#39;re coming from, <em>even if you disagree with them</em>. When you&#39;re showing love to someone, it&#39;s much more important that you communicate you care about them than communicating that you think you&#39;re right. If we truly listen and show love to those who are angered by their lack of voice, I think our nation might be able to start healing. There are many issues at play here, and to be sure they will not be solved in a day. But for right now, in the midst of all the chaos and hate, the best we all can do is show love and compassion to those who are hurting.</p>
-
- </article>
- <div class="article-info footer-info">
- tags: politics, race<br>
- 
- </div>
- </main>
- </div>
- <div class="col-md-1 col-lg-2"></div>
- </div>
- </div>
- <!--<footer>
-        <div class="footer">
-            &#169; 2021 Matthew Miller.
-        </div>
-    </footer>0-->
- 
- <footer>
- <div class="container footer-main">
- <div class="row">
- <div class="col-sm-1"></div>
- <div class="col-sm-5">
- <a href="/privacy.html">Privacy</a> — I don't watch you <br>
- <a href="/attribution.html">Attribution</a> <br>
- &#169; 2021 Matthew Miller. Unless otherwise noted, all content is licensed under the <a
-                        href="https://creativecommons.org/licenses/by-sa/4.0/?ref=ccchooser">Creative Commons <nobr>BY-SA</nobr> 4.0</a>
- <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> <i
-                        class="fab fa-creative-commons-sa"></i>
- </div>
- <div class="col-sm-5 footer-links">
- <a href="/">Home</a> •
- <a href="/photography/">Photography</a> •
- <a href="/writing/">Writing</a> •
- <a href="/contact/">Contact</a>
- <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i
-                            class="fab fa-instagram"></i></a>
- <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
- </div>
- <div class="col-sm-1"></div>
- </div>
- </div>
- </footer>
- 
- <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
- <script src="/js/lazyload.js"></script>
-
- <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1005c62af3fe4147beb401d634dd80ac"}'></script><!-- End Cloudflare Web Analytics --></body>
-
-</html>]]></description><link>https://justmatt.co/writing/2020-06-01-an-empathetic-response.html</link><guid isPermaLink="true">https://justmatt.co/writing/2020-06-01-an-empathetic-response.html</guid><dc:creator><![CDATA[Matthew Miller]]></dc:creator><pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[Welcome to the new Just Matt]]></title><description><![CDATA[<!doctype html>
-<html itemscope itemtype="http://schema.org/Article">
-
-<head>
- <meta charset="utf-8" />
- <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
- <title>Welcome to the new Just Matt | Just Matt</title>
-
- <meta name="description" content="Welcome to my new website! COVID has put an end to a lot of things I was looking forward to, but it also gave me enough downtime to design a completely new website, and for that I am thankful. I&amp;#39;m also looking forward to writing a lot more during the rest of the summer. I haven&amp;#39;t really written anything in quite a while, and I&amp;#39;ve missed it a lot. This will give me the opportunity and platform to create at least a few well-researched essays and other things that interest me. I&amp;#39;m not anticipating much of a theme at this..." />
-
- <!-- Schema.org markup for Google+ -->
- <meta itemprop="name" content="Welcome to the new Just Matt | Just Matt">
- <meta itemprop="description" content="Welcome to my new website! COVID has put an end to a lot of things I was looking forward to, but it also gave me enough downtime to design a completely new website, and for that I am thankful. I&amp;#39;m also looking forward to writing a lot more during the rest of the summer. I haven&amp;#39;t really written anything in quite a while, and I&amp;#39;ve missed it a lot. This will give me the opportunity and platform to create at least a few well-researched essays and other things that interest me. I&amp;#39;m not anticipating much of a theme at this...">
-
- <meta property="og:title" content="Welcome to the new Just Matt | Just Matt" />
- <meta property="og:description" content="Welcome to my new website! COVID has put an end to a lot of things I was looking forward to, but it also gave me enough downtime to design a completely new website, and for that I am thankful. I&amp;#39;m also looking forward to writing a lot more during the rest of the summer. I haven&amp;#39;t really written anything in quite a while, and I&amp;#39;ve missed it a lot. This will give me the opportunity and platform to create at least a few well-researched essays and other things that interest me. I&amp;#39;m not anticipating much of a theme at this..." />
- <meta property="og:type" content="article" />
- <meta property="og:author" content="Matthew Miller" />
- <meta property="og:published_time" content="May 31st, 2020" />
- <meta property="og:url" content="https://justmatt.co/writing/2020-05-31-new-website.html" />
- <meta property="og:site_name" content="Just Matt" />
-
- <meta name="twitter:card" content="summary" />
- <meta name="twitter:title" content="Welcome to the new Just Matt | Just Matt" />
- <meta name="twitter:description" content="" />
-
- <link rel="stylesheet" href="/css/article.css" />
-
-</head>
-
-<body>
- <div class="container h-100 flex-grow-1">
- <div class="row align-items-center h-100 navheader">
- <!-- Vertical align center: https://stackoverflow.com/a/42252877/3546490 -->
- <div class="col-2">
- <a href="/">
- <img 
-                    src="/assets/logo-black.png" 
-                    class="navheader-logo" />
- </a>
- </div>
- <div class="col-md-10 col-sm-10">
- 
- <nav class="navheader-menu">
- <a class="navheader-menu-item" href="/"><abbr>HOME</abbr></a> //
- <a class="navheader-menu-item" href="/photography/"><abbr>PHOTOGRAPHY</abbr></a> //
- <a class="navheader-menu-item" href="/writing/"><abbr>WRITING</abbr></a> //
- <a class="navheader-menu-item" href="/contact/"><abbr>CONTACT</abbr></a>
- <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i class="fab fa-instagram"></i></a>
- <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
- 
- </nav>
- </div>
- </div> <div class="row">
- <div class="col-md-1 col-lg-2"></div>
- <div class="col-lg-8 col-md-10">
- <main>
- <header>
- <h1 class="title">Welcome to the new Just Matt</h1>
- <div class="article-info">
- Published Sunday May 31st, 2020 by Matthew Miller — 134 words — 1 min read
- </div>
- </header>
- <article>
-
- <p>Welcome to my new website! <abbr>COVID</abbr> has put an end to a lot of things I was looking forward to, but it also gave me enough downtime to design a completely new website, and for that I am thankful.</p>
+]]></description><link>https://justmatt.co/writing/2020-06-01-an-empathetic-response.html</link><guid isPermaLink="true">https://justmatt.co/writing/2020-06-01-an-empathetic-response.html</guid><dc:creator><![CDATA[Matthew Miller]]></dc:creator><pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[Welcome to the new Just Matt]]></title><description><![CDATA[<p>Welcome to my new website! <abbr>COVID</abbr> has put an end to a lot of things I was looking forward to, but it also gave me enough downtime to design a completely new website, and for that I am thankful.</p>
 <p>I&#39;m also looking forward to writing a lot more during the rest of the summer. I haven&#39;t really written anything in quite a while, and I&#39;ve missed it a lot. This will give me the opportunity and platform to create at least a few well-researched essays and other things that interest me.</p>
 <p>I&#39;m not anticipating much of a theme at this point, seeing as how this is my personal website and it&#39;s bound to be as varied as I am. If you&#39;ve found my site, I hope you enjoy this slice of who I am.</p>
-
- </article>
- <div class="article-info footer-info">
- 
- 
- </div>
- </main>
- </div>
- <div class="col-md-1 col-lg-2"></div>
- </div>
- </div>
- <!--<footer>
-        <div class="footer">
-            &#169; 2021 Matthew Miller.
-        </div>
-    </footer>0-->
- 
- <footer>
- <div class="container footer-main">
- <div class="row">
- <div class="col-sm-1"></div>
- <div class="col-sm-5">
- <a href="/privacy.html">Privacy</a> — I don't watch you <br>
- <a href="/attribution.html">Attribution</a> <br>
- &#169; 2021 Matthew Miller. Unless otherwise noted, all content is licensed under the <a
-                        href="https://creativecommons.org/licenses/by-sa/4.0/?ref=ccchooser">Creative Commons <nobr>BY-SA</nobr> 4.0</a>
- <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> <i
-                        class="fab fa-creative-commons-sa"></i>
- </div>
- <div class="col-sm-5 footer-links">
- <a href="/">Home</a> •
- <a href="/photography/">Photography</a> •
- <a href="/writing/">Writing</a> •
- <a href="/contact/">Contact</a>
- <a class="navheader-menu-item" href="https://www.instagram.com/matthewmiller9904/"><i
-                            class="fab fa-instagram"></i></a>
- <a class="navheader-menu-item" href="https://www.linkedin.com/in/matthew-miller-b65916172/"><i class="fab fa-linkedin-in"></i></a>
- </div>
- <div class="col-sm-1"></div>
- </div>
- </div>
- </footer>
- 
- <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
- <script src="/js/lazyload.js"></script>
-
- <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1005c62af3fe4147beb401d634dd80ac"}'></script><!-- End Cloudflare Web Analytics --></body>
-
-</html>]]></description><link>https://justmatt.co/writing/2020-05-31-new-website.html</link><guid isPermaLink="true">https://justmatt.co/writing/2020-05-31-new-website.html</guid><dc:creator><![CDATA[Matthew Miller]]></dc:creator><pubDate>Invalid Date</pubDate></item></channel></rss>
+]]></description><link>https://justmatt.co/writing/2020-05-31-new-website.html</link><guid isPermaLink="true">https://justmatt.co/writing/2020-05-31-new-website.html</guid><dc:creator><![CDATA[Matthew Miller]]></dc:creator><pubDate>Invalid Date</pubDate></item></channel></rss>
